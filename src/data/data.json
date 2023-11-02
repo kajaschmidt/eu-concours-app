@@ -1,0 +1,4834 @@
+{
+    "id": "src-lrc-ubi",
+    "title": "funkschein-fragem",
+    "copyright": {
+        "text": "Wasserstraßen- und Schifffahrtsverwaltung des Bundes",
+        "src": "https://www.elwis.de/"
+    },
+    "questions": [
+        {
+            "license": "EPSO",
+            "chapter": "Agencies",
+            "question": "Where is the European Defence Agency located?",
+            "answers": [
+                {
+                    "label": "Brussels",
+                    "value": true
+                },
+                {
+                    "label": "Stockholm",
+                    "value": false
+                },
+                {
+                    "label": "Vienna",
+                    "value": false
+                },
+                {
+                    "label": "Paris",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-1"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Agencies",
+            "question": "Which agency is the High Representative (HR), which shapes and conducts the EU's common foreign and security policy (CFSP) heading?",
+            "answers": [
+                {
+                    "label": "European Defence Agency",
+                    "value": true
+                },
+                {
+                    "label": "EU Peace Institute",
+                    "value": false
+                },
+                {
+                    "label": "Jacques Delors Institute",
+                    "value": false
+                },
+                {
+                    "label": "European Space Agency",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-2"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What do we celebrate each year on 9 May?",
+            "answers": [
+                {
+                    "label": "The Schuman declaration",
+                    "value": true
+                },
+                {
+                    "label": "Founding of the Council of Europe",
+                    "value": false
+                },
+                {
+                    "label": "The Congress of Europe",
+                    "value": false
+                },
+                {
+                    "label": "The Marshall plan",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-3"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "Which treaty stated that the High Representative als has a Vice President position?",
+            "answers": [
+                {
+                    "label": "Lisbon",
+                    "value": true
+                },
+                {
+                    "label": "Maastricht",
+                    "value": false
+                },
+                {
+                    "label": "Amsterdam",
+                    "value": false
+                },
+                {
+                    "label": "Rome",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-4"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "When and where was the European Coal and Steel Community treaty signed?",
+            "answers": [
+                {
+                    "label": "1951, Paris",
+                    "value": true
+                },
+                {
+                    "label": "1957, Rome",
+                    "value": false
+                },
+                {
+                    "label": "1986, Luxembourg",
+                    "value": false
+                },
+                {
+                    "label": "1965, Brussels",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-5"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "What is the purpose of the European Coal and Steel Community?",
+            "answers": [
+                {
+                    "label": "To create interdependence in coal and steel so that one country could no longer mobilise its armed forces without others knowing.",
+                    "value": true
+                },
+                {
+                    "label": "To extend European integration to include general economic cooperation.",
+                    "value": false
+                },
+                {
+                    "label": "To streamline the European institutions.",
+                    "value": false
+                },
+                {
+                    "label": "To reform the institutions in preparation for Portugal and Spain's membership and speed up decision-making in preparation for the single market.",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-6"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "When were the treaties of Rome (EEC and EURATOM treaties) signed?",
+            "answers": [
+                {
+                    "label": "1957",
+                    "value": true
+                },
+                {
+                    "label": "1986",
+                    "value": false
+                },
+                {
+                    "label": "1965",
+                    "value": false
+                },
+                {
+                    "label": "1951",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-7"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "What is the purpose of the treaties of Rome (EEC and EURATOM treaties)?",
+            "answers": [
+                {
+                    "label": "To set up the European Economic Community (EEC) and the European Atomic Energy Community (Euratom)",
+                    "value": true
+                },
+                {
+                    "label": "To streamline the European institutions.",
+                    "value": false
+                },
+                {
+                    "label": "To reform the institutions in preparation for Portugal and Spain's membership and speed up decision-making in preparation for the single market.",
+                    "value": false
+                },
+                {
+                    "label": "To create interdependence in coal and steel so that one country could no longer mobilise its armed forces without others knowing.",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-8"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "When was the Merger/Brussels Treaty signed?",
+            "answers": [
+                {
+                    "label": "1965",
+                    "value": true
+                },
+                {
+                    "label": "1986",
+                    "value": false
+                },
+                {
+                    "label": "1957",
+                    "value": false
+                },
+                {
+                    "label": "1992",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-9"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "What is the purpose of the Merger/Brussels treaty?",
+            "answers": [
+                {
+                    "label": "To streamline the European institutions.",
+                    "value": true
+                },
+                {
+                    "label": "To reform the institutions in preparation for Portugal and Spain's membership and speed up decision-making in preparation for the single market.",
+                    "value": false
+                },
+                {
+                    "label": "To create interdependence in coal and steel so that one country could no longer mobilise its armed forces without others knowing.",
+                    "value": false
+                },
+                {
+                    "label": "To set up the European Economic Community (EEC) and the European Atomic Energy Community (Euratom)",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-10"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "When and where was the Single European Act signed?",
+            "answers": [
+                {
+                    "label": "1986, Luxembourg/The Hague",
+                    "value": true
+                },
+                {
+                    "label": "1965, Brussels/Paris",
+                    "value": false
+                },
+                {
+                    "label": "1992, Maastricht/Luxembourg",
+                    "value": false
+                },
+                {
+                    "label": "1957, Luxembourg/The Hague",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-11"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "What is the purpose of the Single European Act?",
+            "answers": [
+                {
+                    "label": "To reform the institutions in preparation for Portugal and Spain's membership and speed up decision-making in preparation for the single market.",
+                    "value": true
+                },
+                {
+                    "label": "To extend European integration to include general economic cooperation.",
+                    "value": false
+                },
+                {
+                    "label": "To create interdependence in coal and steel so that one country could no longer mobilise its armed forces without others knowing.",
+                    "value": false
+                },
+                {
+                    "label": "To create a single Commission and a single Council to serve the then three European Communities (EEC, Euratom, ECSC).",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-12"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "When and where was the Treaty on the European Union signed?",
+            "answers": [
+                {
+                    "label": "1992, Maastricht",
+                    "value": true
+                },
+                {
+                    "label": "1986, Maastricht",
+                    "value": false
+                },
+                {
+                    "label": "1986, Luxembourg/The Hague",
+                    "value": false
+                },
+                {
+                    "label": "1992, Luxembourg/The Hague",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-13"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "What is the purpose of the Treaty on the European Union / the Maastricht Treaty?",
+            "answers": [
+                {
+                    "label": "To prepare for European Monetary Union and introduce elements of a political union (citizenship, common foreign and internal affairs policy).",
+                    "value": true
+                },
+                {
+                    "label": "To create a single Commission and a single Council to serve the then three European Communities (EEC, Euratom, ECSC).",
+                    "value": false
+                },
+                {
+                    "label": "To reform the EU institutions in preparation for the arrival of future member countries.",
+                    "value": false
+                },
+                {
+                    "label": "To reform the institutions so that the EU could function efficiently after reaching 25 member countries",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-14"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "What is the purpose of the Treaty of Amsterdam?",
+            "answers": [
+                {
+                    "label": "To reform the EU institutions in preparation for the arrival of future member countries.",
+                    "value": true
+                },
+                {
+                    "label": "To reform the institutions so that the EU could function efficiently after reaching 25 member countries",
+                    "value": false
+                },
+                {
+                    "label": "To make the EU more democratic, more efficient and better able to address global problems, such as climate change, with one voice",
+                    "value": false
+                },
+                {
+                    "label": "To prepare for European Monetary Union and introduce elements of a political union (citizenship, common foreign and internal affairs policy).",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-15"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "What is the purpose of the Treaty of Nice?",
+            "answers": [
+                {
+                    "label": "To reform the institutions so that the EU could function efficiently after reaching 25 member countries",
+                    "value": true
+                },
+                {
+                    "label": "To make the EU more democratic, more efficient and better able to address global problems, such as climate change, with one voice",
+                    "value": false
+                },
+                {
+                    "label": "To reform the EU institutions in preparation for the arrival of future member countries.",
+                    "value": false
+                },
+                {
+                    "label": "To establish the European Union and introduce the co-decision procedure, giving Parliament more say in decision-making, and creating new forms of cooperation between EU governments (e.g., on defence and justice and home affairs).",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-16"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "What is the purpose of the Treaty of Lisbon?",
+            "answers": [
+                {
+                    "label": "To make the EU more democratic, more efficient and better able to address global problems, such as climate change, with one voice",
+                    "value": true
+                },
+                {
+                    "label": "To reform the EU institutions in preparation for the arrival of future member countries.",
+                    "value": false
+                },
+                {
+                    "label": "To establish the European Union and introduce the co-decision procedure, giving Parliament more say in decision-making, and creating new forms of cooperation between EU governments (e.g., on defence and justice and home affairs).",
+                    "value": false
+                },
+                {
+                    "label": "To reform the institutions so that the EU could function efficiently after reaching 25 member countries",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-17"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "When was the Treaty of Lisbon signed?",
+            "answers": [
+                {
+                    "label": "2007",
+                    "value": true
+                },
+                {
+                    "label": "1992",
+                    "value": false
+                },
+                {
+                    "label": "2001",
+                    "value": false
+                },
+                {
+                    "label": "1997",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-18"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "When was the Treaty of Amsterdam signed?",
+            "answers": [
+                {
+                    "label": "1997",
+                    "value": true
+                },
+                {
+                    "label": "1992",
+                    "value": false
+                },
+                {
+                    "label": "2001",
+                    "value": false
+                },
+                {
+                    "label": "2007",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-19"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "When was the treaty of Nice signed?",
+            "answers": [
+                {
+                    "label": "2001",
+                    "value": true
+                },
+                {
+                    "label": "2007",
+                    "value": false
+                },
+                {
+                    "label": "1997",
+                    "value": false
+                },
+                {
+                    "label": "1992",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-20"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "What were the main changes introduced by the Treaty of Lisbon?",
+            "answers": [
+                {
+                    "label": "More power for the European Parliament (and clarification which powers belong to the EU, MS or both), change of voting procedures in the Council, citizens' initiative, a permanent president of the Council of the European Union, a new High Representative for Foreign Affairs, a new EU diplomatic service.",
+                    "value": true
+                },
+                {
+                    "label": "Introduce methods for changing the composition of the Commission and redefining the voting system in the Council.",
+                    "value": false
+                },
+                {
+                    "label": "Amending, renumbering and consolidating EU and EEC treaties. More transparent decision-making",
+                    "value": false
+                },
+                {
+                    "label": "The extension of qualified majority voting in the Council (making it harder for a single country to veto proposed legislation), creation of the cooperation and assent procedures, giving Parliament more influence.",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-21"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "Which treaty laid out the goals and values of the EU?",
+            "answers": [
+                {
+                    "label": "Treaty of Lisbon",
+                    "value": true
+                },
+                {
+                    "label": "Treaty of Nice",
+                    "value": false
+                },
+                {
+                    "label": "Treaty of Amsterdam",
+                    "value": false
+                },
+                {
+                    "label": "Maastricht Treaty",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-22"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "Which treaty introduced a new High Representative for Foreign Affairs?",
+            "answers": [
+                {
+                    "label": "Treaty of Lisbon",
+                    "value": true
+                },
+                {
+                    "label": "Treaty of Nice",
+                    "value": false
+                },
+                {
+                    "label": "Treaty of Amsterdam",
+                    "value": false
+                },
+                {
+                    "label": "Maastrict Treaty",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-23"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "What were the main changes introduced by the Treaty of Nice?",
+            "answers": [
+                {
+                    "label": "Introduce methods for changing the composition of the Commission and redefining the voting system in the Council.",
+                    "value": true
+                },
+                {
+                    "label": "More power for the European Parliament (and clarification which powers belong to the EU, MS or both), change of voting procedures in the Council, citizens' initiative, a permanent president of the Council of the European Union, a new High Representative for Foreign Affairs, a new EU diplomatic service.",
+                    "value": false
+                },
+                {
+                    "label": "The establishment of the European Union and introducing the co-decision procedure, giving Parliament more say in decision-making, and creating new forms of cooperation between EU governments (e.g., on defence and justice and home affairs).",
+                    "value": false
+                },
+                {
+                    "label": "The extension of qualified majority voting in the Council (making it harder for a single country to veto proposed legislation), creation of the cooperation and assent procedures, giving Parliament more influence.",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-24"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "What were the main changes introduced by the Treaty of Amsterdam?",
+            "answers": [
+                {
+                    "label": "Amending, renumbering and consolidating EU and EEC treaties. More transparent decision-making",
+                    "value": true
+                },
+                {
+                    "label": "The establishment of the European Union and introducing the co-decision procedure, giving Parliament more say in decision-making, and creating new forms of cooperation between EU governments (e.g., on defence and justice and home affairs).",
+                    "value": false
+                },
+                {
+                    "label": "More power for the European Parliament (and clarification which powers belong to the EU, MS or both), change of voting procedures in the Council, citizens' initiative, a permanent president of the Council of the European Union, a new High Representative for Foreign Affairs, a new EU diplomatic service.",
+                    "value": false
+                },
+                {
+                    "label": "The extension of European integration to include general economic cooperation.",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-25"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "What were the main changes introduced by the Maastrich Treaty?",
+            "answers": [
+                {
+                    "label": "The establishment of the European Union and introducing the co-decision procedure, giving Parliament more say in decision-making, and creating new forms of cooperation between EU governments (e.g., on defence and justice and home affairs).",
+                    "value": true
+                },
+                {
+                    "label": "Amending, renumbering and consolidating EU and EEC treaties. More transparent decision-making",
+                    "value": false
+                },
+                {
+                    "label": "More power for the European Parliament (and clarification which powers belong to the EU, MS or both), change of voting procedures in the Council, citizens' initiative, a permanent president of the Council of the European Union, a new High Representative for Foreign Affairs, a new EU diplomatic service.",
+                    "value": false
+                },
+                {
+                    "label": "The extension of European integration to include general economic cooperation.",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-26"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "What were the main changes introduced by the Single European Act?",
+            "answers": [
+                {
+                    "label": "The extension of qualified majority voting in the Council (making it harder for a single country to veto proposed legislation), creation of the cooperation and assent procedures, giving Parliament more influence.",
+                    "value": true
+                },
+                {
+                    "label": "The extension of European integration to include general economic cooperation.",
+                    "value": false
+                },
+                {
+                    "label": "Amending, renumbering and consolidating EU and EEC treaties. More transparent decision-making",
+                    "value": false
+                },
+                {
+                    "label": "Introduce methods for changing the composition of the Commission and redefining the voting system in the Council.",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-27"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "What were the main changes introduced by the Merger Treaty / Brussels Treaty?",
+            "answers": [
+                {
+                    "label": "The creation of a single Commission and a single Council to serve the then three European Communities (EEC, Euratom, ECSC). Repealed by the Treaty of Amsterdam.",
+                    "value": true
+                },
+                {
+                    "label": "The extension of European integration to include general economic cooperation.",
+                    "value": false
+                },
+                {
+                    "label": "The extension of qualified majority voting in the Council (making it harder for a single country to veto proposed legislation), creation of the cooperation and assent procedures, giving Parliament more influence.",
+                    "value": false
+                },
+                {
+                    "label": "Amending, renumbering and consolidating EU and EEC treaties. More transparent decision-making",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-28"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "What were the main changes introduced by the Treaties of Rome?",
+            "answers": [
+                {
+                    "label": "The extension of European integration to include general economic cooperation.",
+                    "value": true
+                },
+                {
+                    "label": "The extension of qualified majority voting in the Council (making it harder for a single country to veto proposed legislation), creation of the cooperation and assent procedures, giving Parliament more influence.",
+                    "value": false
+                },
+                {
+                    "label": "The creation of a single Commission and a single Council to serve the then three European Communities (EEC, Euratom, ECSC). Repealed by the Treaty of Amsterdam.",
+                    "value": false
+                },
+                {
+                    "label": "The establishment of the European Union and introducing the co-decision procedure, giving Parliament more say in decision-making, and creating new forms of cooperation between EU governments (e.g., on defence and justice and home affairs).",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-29"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "Which country/countries joined the EU in 1973?",
+            "answers": [
+                {
+                    "label": "Denmark, Ireland, UK",
+                    "value": true
+                },
+                {
+                    "label": "Spain, Portugal",
+                    "value": false
+                },
+                {
+                    "label": "Croatia",
+                    "value": false
+                },
+                {
+                    "label": "Norway",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-30"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "Which country/countries joined the EU in 1981?",
+            "answers": [
+                {
+                    "label": "Greece",
+                    "value": true
+                },
+                {
+                    "label": "Denmark, Ireland, UK",
+                    "value": false
+                },
+                {
+                    "label": "Spain, Portugal",
+                    "value": false
+                },
+                {
+                    "label": "Austria, Finland, Sweden",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-31"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "Which country/countries joined the EU in 1986?",
+            "answers": [
+                {
+                    "label": "Spain, Portugal",
+                    "value": true
+                },
+                {
+                    "label": "Sweden, Finland",
+                    "value": false
+                },
+                {
+                    "label": "Austria, Finland, Sweden",
+                    "value": false
+                },
+                {
+                    "label": "Greece",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-32"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "Which country/countries joined the EU in 1995?",
+            "answers": [
+                {
+                    "label": "Austria, Finland, Sweden",
+                    "value": true
+                },
+                {
+                    "label": "Czechia, Cyprus, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, Slovenia",
+                    "value": false
+                },
+                {
+                    "label": "Spain, Portugal",
+                    "value": false
+                },
+                {
+                    "label": "Greece",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-33"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "Which country/countries joined the EU in 2004?",
+            "answers": [
+                {
+                    "label": "Czechia, Cyprus, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, Slovenia",
+                    "value": true
+                },
+                {
+                    "label": "Czechia, Cyprus, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, Slovenia, Romania",
+                    "value": false
+                },
+                {
+                    "label": "Czechia, Cyprus, Estonia, Hungary, Latvia, Bulgaria, Malta, Poland, Slovakia, Slovenia, Romania",
+                    "value": false
+                },
+                {
+                    "label": "Czechia, Croatia, Cyprus, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, Slovenia",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-34"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "Which country/countries joined the EU in 2007?",
+            "answers": [
+                {
+                    "label": "Bulgaria, Romania",
+                    "value": true
+                },
+                {
+                    "label": "Czechia, Cyprus, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia",
+                    "value": false
+                },
+                {
+                    "label": "Croatia, Cyprus, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, Slovenia",
+                    "value": false
+                },
+                {
+                    "label": "Croatia",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-35"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "Which country/countries joined the EU in 2013?",
+            "answers": [
+                {
+                    "label": "Croatia",
+                    "value": true
+                },
+                {
+                    "label": "Bulgaria, Romania",
+                    "value": false
+                },
+                {
+                    "label": "Czechia, Cyprus, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, Slovenia",
+                    "value": false
+                },
+                {
+                    "label": "Austria, Finland, Sweden",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-36"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "What is a treaty?",
+            "answers": [
+                {
+                    "label": "A binding agreement that was approved voluntarily and democratically by all EU member countries.",
+                    "value": true
+                },
+                {
+                    "label": "A voluntary agreement that was approved by all EU member countries.",
+                    "value": false
+                },
+                {
+                    "label": "A binding agreement that was approved voluntarily and democratically by a majority of EU member countries.",
+                    "value": false
+                },
+                {
+                    "label": "A voluntary agreement that was approved by a majority of EU member countries.",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-37"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "Where are the EU values laid out?",
+            "answers": [
+                {
+                    "label": "Lisbon Treaty and EU Charter of Fundamental Rights",
+                    "value": true
+                },
+                {
+                    "label": "Maastricht Treaty and EU Charter of Fundamental Rights",
+                    "value": false
+                },
+                {
+                    "label": "Brussels Treaty and EU Charter of Fundamental Rights",
+                    "value": false
+                },
+                {
+                    "label": "EU Charter of Fundamental Rights",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-38"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Treaties",
+            "question": "Which values is the European Union founded upon?",
+            "answers": [
+                {
+                    "label": "Human dignity, Freedom, Democracy, Equality, Rule of Law, Human Rights",
+                    "value": true
+                },
+                {
+                    "label": "Human dignity, Freedom, Democracy, Equality, Rule of Law, Human Rights, Free Speech",
+                    "value": false
+                },
+                {
+                    "label": "Human dignity, Freedom, Free movement, Democracy, Equality, Rule of Law, Human Rights",
+                    "value": false
+                },
+                {
+                    "label": "Human dignity, Freedom, Democracy, Rule of Law, Human Rights",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-39"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Declarations",
+            "question": "What was the Bratislava Declaration (2016) about?",
+            "answers": [
+                {
+                    "label": "Internal and external security, migration and socio-economic progress",
+                    "value": true
+                },
+                {
+                    "label": "Environment, public health, research and innovation",
+                    "value": false
+                },
+                {
+                    "label": "Digital, green public transportation",
+                    "value": false
+                },
+                {
+                    "label": "Infrastructure, nuclear energy, green energy",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-40"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Institutions",
+            "question": "Who appoints Commissioners?",
+            "answers": [
+                {
+                    "label": "The team of Commissioner nominees (proposed by MS in consultation with Commission president) are subject to hearings at the European Parliament, which questions them and then votes on their suitability as a whole.",
+                    "value": true
+                },
+                {
+                    "label": "Common agreement by Member States",
+                    "value": false
+                },
+                {
+                    "label": "Council of the European Union with the agreement from the Commission president",
+                    "value": false
+                },
+                {
+                    "label": "Appointed by the Council of the European Union after consultation with the European Parliament",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-41"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which countries participate in the EU sports week?",
+            "answers": [
+                {
+                    "label": "EU member states, Erasmus countries, Western Balkans / Eastern Partnerships",
+                    "value": true
+                },
+                {
+                    "label": "EU member states, Erasmus countries",
+                    "value": false
+                },
+                {
+                    "label": "EU member states, Western Balkans / Eastern Partnerships",
+                    "value": false
+                },
+                {
+                    "label": "EU members only",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-42"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Trade",
+            "question": "Which countries represented 12% of EU trade?",
+            "answers": [
+                {
+                    "label": "UK",
+                    "value": true
+                },
+                {
+                    "label": "US",
+                    "value": false
+                },
+                {
+                    "label": "China",
+                    "value": false
+                },
+                {
+                    "label": "Switzerland",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-43"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Trade",
+            "question": "Which countries are the top 4 EU trading partners?",
+            "answers": [
+                {
+                    "label": "US, China, UK, Switzerland",
+                    "value": true
+                },
+                {
+                    "label": "China, US, Norway, UK",
+                    "value": false
+                },
+                {
+                    "label": "US, UK, China, Norway",
+                    "value": false
+                },
+                {
+                    "label": "US, UK, China, Switzerland",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-44"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "[Generalised Scheme of Preferences]",
+            "answers": [
+                {
+                    "label": "1971",
+                    "value": true
+                },
+                {
+                    "label": "4 strands: GSP, GSP+, GSP ++, EBA",
+                    "value": false
+                },
+                {
+                    "label": "EBA: need to respect international climate agreement",
+                    "value": false
+                },
+                {
+                    "label": "Any developing country is automatically added to GSP",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-45"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "The MEDIA strand Creative Europe does not support…",
+            "answers": [
+                {
+                    "label": "…emerging talent",
+                    "value": true
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-46"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "Which one is not a priority of IPA III?",
+            "answers": [
+                {
+                    "label": "Demography and aging",
+                    "value": true
+                },
+                {
+                    "label": "Stability of institutions, democracy, rule of law",
+                    "value": false
+                },
+                {
+                    "label": "Environment, climate",
+                    "value": false
+                },
+                {
+                    "label": "Environment, democracy",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-47"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Digital",
+            "question": "Which points are not part of the priorities of the Digital Europe Programme?",
+            "answers": [
+                {
+                    "label": "Mobile coverage beyond 5G",
+                    "value": true
+                },
+                {
+                    "label": "High performance computing",
+                    "value": false
+                },
+                {
+                    "label": "Cybersecurity",
+                    "value": false
+                },
+                {
+                    "label": "Advanced digital skills",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-48"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "Which points are part of the priorities of the Digital Europe Programme?",
+            "answers": [
+                {
+                    "label": "nan",
+                    "value": true
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-49"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "Which parts are a proprity of IPA III?",
+            "answers": [
+                {
+                    "label": "nan",
+                    "value": true
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-50"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "What is the Farm to Fork Strategy?",
+            "answers": [
+                {
+                    "label": "nan",
+                    "value": true
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-51"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Agriculture",
+            "question": "What are the pesticide targets of the Farm to Fork Strategy?",
+            "answers": [
+                {
+                    "label": "50% reduction in use and risk",
+                    "value": true
+                },
+                {
+                    "label": "75% reductioni in use and risk",
+                    "value": false
+                },
+                {
+                    "label": "Ban on most hazardous chemicals",
+                    "value": false
+                },
+                {
+                    "label": "Ban on all chemicals",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-52"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What was the first Regulation adopted in 1958 about?",
+            "answers": [
+                {
+                    "label": "Languages to be used by the European Economic Community",
+                    "value": true
+                },
+                {
+                    "label": "Related to decision-making procedures",
+                    "value": false
+                },
+                {
+                    "label": "Priviledges and immunities of civil servants",
+                    "value": false
+                },
+                {
+                    "label": "Location of institutions",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-53"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Can the European Parliament overthrow the European Commission?",
+            "answers": [
+                {
+                    "label": "No, never",
+                    "value": true
+                },
+                {
+                    "label": "Yes, by unanimity vote",
+                    "value": false
+                },
+                {
+                    "label": "With simple majority",
+                    "value": false
+                },
+                {
+                    "label": "Yes, with a majority vote after which it is immediately dissolved",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-54"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "What are the proprities of the Council's strategic agenda for 2019-2024?",
+            "answers": [
+                {
+                    "label": "nan",
+                    "value": true
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-55"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is not part of the priorities of the Council's Strategic Agenda for 2019-2024?",
+            "answers": [
+                {
+                    "label": "Securing energy for citizens",
+                    "value": true
+                },
+                {
+                    "label": "Protecting citizens and freedom",
+                    "value": false
+                },
+                {
+                    "label": "Developing a strong and vibrant economy",
+                    "value": false
+                },
+                {
+                    "label": "Promoting European interests and values on the global stage",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-56"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which of these is not a Common Foreign and Security Policy priority?",
+            "answers": [
+                {
+                    "label": "Mitigating climate security risk",
+                    "value": true
+                },
+                {
+                    "label": "Promoting international cooperation",
+                    "value": false
+                },
+                {
+                    "label": "Strengthening international security",
+                    "value": false
+                },
+                {
+                    "label": "Preserving peace",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-57"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "What are the proprities of the Common Foreign and Security Policy?",
+            "answers": [
+                {
+                    "label": "nan",
+                    "value": true
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-58"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is contrary to Schengen rules?",
+            "answers": [
+                {
+                    "label": "Individuals need certain travel documents, irrespective if they are EU nationals, family members or non-EU nationals",
+                    "value": true
+                },
+                {
+                    "label": "Any nationality can move freely within the Schengen area without border controls",
+                    "value": false
+                },
+                {
+                    "label": "Carries out police checks under some conditions",
+                    "value": false
+                },
+                {
+                    "label": "Temporarily reintroduces passport controls for max. 30 days at the beginning",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-59"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "Which funding programme relates only to the environment",
+            "answers": [
+                {
+                    "label": "LIFE",
+                    "value": true
+                },
+                {
+                    "label": "Horizon",
+                    "value": false
+                },
+                {
+                    "label": "Copernicus",
+                    "value": false
+                },
+                {
+                    "label": "European Environment",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-60"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the status of the EU and member states in the WTO?",
+            "answers": [
+                {
+                    "label": "Both the EU and its member states are members of the WTO",
+                    "value": true
+                },
+                {
+                    "label": "Both the EU and its member states are observers of the WTO",
+                    "value": false
+                },
+                {
+                    "label": "The EU is a member and the member states are observers",
+                    "value": false
+                },
+                {
+                    "label": "The EU is an observer and the member states are members",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-61"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which member state receives more support for Wine production?",
+            "answers": [
+                {
+                    "label": "Italy",
+                    "value": true
+                },
+                {
+                    "label": "France",
+                    "value": false
+                },
+                {
+                    "label": "Spain",
+                    "value": false
+                },
+                {
+                    "label": "Portugal",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-62"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Banking",
+            "question": "What is the objective of the European Investment Bank?",
+            "answers": [
+                {
+                    "label": "Funding projects to support EU objectives in the EU and outside in the long term",
+                    "value": true
+                },
+                {
+                    "label": "Ensuring sound banking systems in the EU",
+                    "value": false
+                },
+                {
+                    "label": "Ensuring stability of the Euro",
+                    "value": false
+                },
+                {
+                    "label": "Funding projects within the EU",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-63"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Agency",
+            "question": "What is the role of the European Food Safety Agency?",
+            "answers": [
+                {
+                    "label": "Delivering scientific advice",
+                    "value": true
+                },
+                {
+                    "label": "Audits and inspections",
+                    "value": false
+                },
+                {
+                    "label": "Enforcement",
+                    "value": false
+                },
+                {
+                    "label": "Proposing regulatory measures",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-64"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Agency",
+            "question": "What is the role of the European Medicines Agency?",
+            "answers": [
+                {
+                    "label": "Monitoring safety of medicines",
+                    "value": true
+                },
+                {
+                    "label": "Developing medicines",
+                    "value": false
+                },
+                {
+                    "label": "Proposing regulation for medicines",
+                    "value": false
+                },
+                {
+                    "label": "Checking advertisements of medicines",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-65"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Decision-making",
+            "question": "What is understood under the \"co-decision\"?",
+            "answers": [
+                {
+                    "label": "European Parliament and the Council of the European Union adopting",
+                    "value": true
+                },
+                {
+                    "label": "European Commission and the Court of Justice adoppting",
+                    "value": false
+                },
+                {
+                    "label": "European Commission and Parliament adopting",
+                    "value": false
+                },
+                {
+                    "label": "European Commission and Court of Auditors adopting",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-66"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "Which of the below is correct",
+            "answers": [
+                {
+                    "label": "Article 3 of the TFEU promotes peace, ist values and the well-being of ist citizens",
+                    "value": true
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-67"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which statement is correct about Schengen?",
+            "answers": [
+                {
+                    "label": "4 EFTA countries signed related agreements to be part of the Schengen area",
+                    "value": true
+                },
+                {
+                    "label": "The Schengen agreement is not included in the EU laws, and also applies to territories outside of the EU",
+                    "value": false
+                },
+                {
+                    "label": "Bulgaria, Romania, Cyprus and Hungary are all part of Schengen",
+                    "value": false
+                },
+                {
+                    "label": "22 member states are currently part of Schengen",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-68"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "How many EU member states are there?",
+            "answers": [
+                {
+                    "label": "27",
+                    "value": true
+                },
+                {
+                    "label": "28",
+                    "value": false
+                },
+                {
+                    "label": "22",
+                    "value": false
+                },
+                {
+                    "label": "26",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-69"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "How many member states form part of the Eurozone?",
+            "answers": [
+                {
+                    "label": "20",
+                    "value": true
+                },
+                {
+                    "label": "22",
+                    "value": false
+                },
+                {
+                    "label": "27",
+                    "value": false
+                },
+                {
+                    "label": "18",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-70"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which member states are not part of the Eurozone?",
+            "answers": [
+                {
+                    "label": "Sweden, Poland, Hungary, Denmark, Czechia, Romania, Bulgaria",
+                    "value": true
+                },
+                {
+                    "label": "Sweden, Poland, Hungary, Denmark, Czechia, Romania, Cyprus",
+                    "value": false
+                },
+                {
+                    "label": "Sweden, Poland, Hungary, Denmark, Latvia, Romania, Bulgaria",
+                    "value": false
+                },
+                {
+                    "label": "Sweden, Poland, Hungary, Denmark, Czechia, Croatia, Bulgaria",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-71"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which non-EU member states are part of the Schengen area?",
+            "answers": [
+                {
+                    "label": "Switzerland, Iceland, Lichtenstein, Norway",
+                    "value": true
+                },
+                {
+                    "label": "Switzerland, UK, Iceland, Norway",
+                    "value": false
+                },
+                {
+                    "label": "UK, Switzerland, Turkey, Norway",
+                    "value": false
+                },
+                {
+                    "label": "Switzerland, Iceland, Lichtenstein, Norway, Turkey",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-72"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which EU member states are not part of the Schengen Area?",
+            "answers": [
+                {
+                    "label": "Romania, Bulgaria, Cyprus, Ireland",
+                    "value": true
+                },
+                {
+                    "label": "Romania, Bulgaria",
+                    "value": false
+                },
+                {
+                    "label": "Cyprus, Ireland",
+                    "value": false
+                },
+                {
+                    "label": "Finland, Sweden",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-73"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "How many countries form part of the Schengen area?",
+            "answers": [
+                {
+                    "label": "27",
+                    "value": true
+                },
+                {
+                    "label": "28",
+                    "value": false
+                },
+                {
+                    "label": "31",
+                    "value": false
+                },
+                {
+                    "label": "24",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-74"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which EU member state has the larges and the smallest surface area?",
+            "answers": [
+                {
+                    "label": "France (largest), Malta (smallest)",
+                    "value": true
+                },
+                {
+                    "label": "Sweden (largest), Malta (smallest)",
+                    "value": false
+                },
+                {
+                    "label": "France (largest), Luxembourg (smallest)",
+                    "value": false
+                },
+                {
+                    "label": "Finland (largest), Luxembourg (smallest)",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-75"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which  countries have the largest population in the EU?",
+            "answers": [
+                {
+                    "label": "Germany, France",
+                    "value": true
+                },
+                {
+                    "label": "Spain, Germany",
+                    "value": false
+                },
+                {
+                    "label": "France, Sweden",
+                    "value": false
+                },
+                {
+                    "label": "Germany, Sweden",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-76"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which countries have the smallest population in the EU?",
+            "answers": [
+                {
+                    "label": "Cyprus, Luxembourg, Malta",
+                    "value": true
+                },
+                {
+                    "label": "Cyprus, Austria, Malta",
+                    "value": false
+                },
+                {
+                    "label": "Luxembourg, Greece",
+                    "value": false
+                },
+                {
+                    "label": "Malta, Luxembourg",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-77"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Unsure",
+            "question": "Which of the following is correct regarding the use of GMO in the EU?",
+            "answers": [
+                {
+                    "label": "Both cultivation and use in food/feed are allowed",
+                    "value": true
+                },
+                {
+                    "label": "Both cultivation and use in food/feed are prohibited",
+                    "value": false
+                },
+                {
+                    "label": "Allowed only for use in food/feed",
+                    "value": false
+                },
+                {
+                    "label": "Only allowed for cultivation",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-78"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "[OLP-related question]",
+            "answers": [
+                {
+                    "label": "Jointly adopted by the Council and the European Parliament, on a proposal from the European Commission",
+                    "value": true
+                },
+                {
+                    "label": "Adopted by the European Commission",
+                    "value": false
+                },
+                {
+                    "label": "Adopted by the Council and the European Parliament",
+                    "value": false
+                },
+                {
+                    "label": "Adopted by the Council, based on a proposal from the European Commission",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-79"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "How are MEPs elected?",
+            "answers": [
+                {
+                    "label": "Via national lists and regional constituencies",
+                    "value": true
+                },
+                {
+                    "label": "Via european electoral lists",
+                    "value": false
+                },
+                {
+                    "label": "Nominated by national parliaments",
+                    "value": false
+                },
+                {
+                    "label": "Nominated by Council of the European Union",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-80"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Digital",
+            "question": "What are the main goals of the Cyber Resliency Act?",
+            "answers": [
+                {
+                    "label": "More secure hardware and software products",
+                    "value": true
+                },
+                {
+                    "label": "To prevent phishing",
+                    "value": false
+                },
+                {
+                    "label": "To eliminate illegal cyber transactions",
+                    "value": false
+                },
+                {
+                    "label": "To ensure cyber security in cyber warfare",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-81"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Unsure",
+            "question": "Which statement is correct about the Council configurations?",
+            "answers": [
+                {
+                    "label": "FAC is chaired by HRVP",
+                    "value": true
+                },
+                {
+                    "label": "FAC is chaired by member states with the Council presidency",
+                    "value": false
+                },
+                {
+                    "label": "GAC is chaired by the Commission",
+                    "value": false
+                },
+                {
+                    "label": "EYCS does not exist anymore after the Lisbon Treaty",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-82"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "Where do border checks for animals from thrid-party countries take place?",
+            "answers": [
+                {
+                    "label": "nan",
+                    "value": true
+                },
+                {
+                    "label": "Any MS?",
+                    "value": false
+                },
+                {
+                    "label": "MS that is the final destination?",
+                    "value": false
+                },
+                {
+                    "label": "First entry point in the EU, unless delegated act states otherwise?",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-83"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Decision-making",
+            "question": "What does the codification of a legislative act refer to?",
+            "answers": [
+                {
+                    "label": "Bringing together a legislative act and all amendments in a single document",
+                    "value": true
+                },
+                {
+                    "label": "Bringing together a legislative act and all amendments, as well as new substantive changes, into a single act",
+                    "value": false
+                },
+                {
+                    "label": "Bringing together s legislative act and all amendments in non-bining acts",
+                    "value": false
+                },
+                {
+                    "label": "Bringing together a legislative act and all amendments in a delegated act",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-84"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Trade",
+            "question": "Which of the following is correct regarding the TTIP negotions with the US that started in 2013?",
+            "answers": [
+                {
+                    "label": "The negotiations officially ended in 2019",
+                    "value": true
+                },
+                {
+                    "label": "A political agreement was found in 2020",
+                    "value": false
+                },
+                {
+                    "label": "TTIP entered into force in 2020",
+                    "value": false
+                },
+                {
+                    "label": "TTIP provisionally entered into force in 2019",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-85"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Budget",
+            "question": "Which of the following is not a revenue source of the EU?",
+            "answers": [
+                {
+                    "label": "CO2 emmissions which have to be paid by each member state",
+                    "value": true
+                },
+                {
+                    "label": "Direct national contributions",
+                    "value": false
+                },
+                {
+                    "label": "Customs fees",
+                    "value": false
+                },
+                {
+                    "label": "VAT",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-86"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "What are the main revenue sources of the EU?",
+            "answers": [
+                {
+                    "label": "nan",
+                    "value": true
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-87"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "What of the following is correct about the Conference on the Future of Europe?",
+            "answers": [
+                {
+                    "label": "The conference is jointly led by the European Parliament, the Council and Commission act as equal partners, together with member states",
+                    "value": true
+                },
+                {
+                    "label": "The conference is jointly led by the European Parliament, the Council and the Commission",
+                    "value": false
+                },
+                {
+                    "label": "The conference is led by member states",
+                    "value": false
+                },
+                {
+                    "label": "The conference is led by the Commission and member states",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-88"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "[Question on ESF]",
+            "answers": [
+                {
+                    "label": "nan",
+                    "value": true
+                },
+                {
+                    "label": "Small loans under EUR 25 000 for SMEs",
+                    "value": false
+                },
+                {
+                    "label": "Supporting employment, social, education and skills, includign structural reforms",
+                    "value": false
+                },
+                {
+                    "label": "Food and support for the most deprived",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-89"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "Which headings in the MFF received the largest allocations?",
+            "answers": [
+                {
+                    "label": "nan",
+                    "value": true
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-90"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "What is Next Generation EU?",
+            "answers": [
+                {
+                    "label": "Recovery plan after the pandemic",
+                    "value": true
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-91"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "[Conference on the Future of Europe]",
+            "answers": [
+                {
+                    "label": "Most democratic exercise, open participatory method with digital and multilingual platform",
+                    "value": true
+                },
+                {
+                    "label": "1999-2001",
+                    "value": false
+                },
+                {
+                    "label": "Gathered feedback via social media to create 49 proposals and 300 initiatives",
+                    "value": false
+                },
+                {
+                    "label": "The Commission refused to implement the initiatives which had been proposed during the conference",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-92"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "Which statement is true about the Minimum Wage Directive?",
+            "answers": [
+                {
+                    "label": "It sets an appropriate EU framework for minimum wage",
+                    "value": true
+                },
+                {
+                    "label": "It sets a minimum wage across the EU",
+                    "value": false
+                },
+                {
+                    "label": "It asks member states for a statutory minimum wage",
+                    "value": false
+                },
+                {
+                    "label": "It takes precedence over member states' national competence for minimum wages",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-93"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "What is the objective of the Green Deal?",
+            "answers": [
+                {
+                    "label": "Make the EU the first carbon neutral continent by 2050",
+                    "value": true
+                },
+                {
+                    "label": "Make the EU the first carbon neutral continent by the end of the century",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-94"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "What is teh recovery and resilience facility?",
+            "answers": [
+                {
+                    "label": "An instrument to support the recovery after covid",
+                    "value": true
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-95"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "?",
+            "question": "How is the MFF approved?",
+            "answers": [
+                {
+                    "label": "nan",
+                    "value": true
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                },
+                {
+                    "label": "nan",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-96"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which EU body is responsible for managing the network of EU delegations throughout the world?",
+            "answers": [
+                {
+                    "label": "The European External Action Service",
+                    "value": true
+                },
+                {
+                    "label": "DG Trade",
+                    "value": false
+                },
+                {
+                    "label": "DG Communication",
+                    "value": false
+                },
+                {
+                    "label": "DG External Relations",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-97"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "According to the European Parliament's rules of precedure rule 182 \"voting procedures\", the following voting procedure shall apply to texts submitted to the European Parliamentary plenary session:",
+            "answers": [
+                {
+                    "label": "First voting on the amedment to the proposal then voting on the text as a whole",
+                    "value": true
+                },
+                {
+                    "label": "Voting on amandments only",
+                    "value": false
+                },
+                {
+                    "label": "Voting on the whole proposal only",
+                    "value": false
+                },
+                {
+                    "label": "First voting on the text as a whole and then voting on the amendment to the proposal",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-98"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "The TFEU sets out four stages for the budgetary procedure. Accordingly, after the EC has drafted the budget, the Council has adopted ist position and, if the EP adopts amendments to the Council, the next step sees:",
+            "answers": [
+                {
+                    "label": "The formation of a conciliation committee",
+                    "value": true
+                },
+                {
+                    "label": "The EP drafts a new revised budget",
+                    "value": false
+                },
+                {
+                    "label": "The Council accepts or rejects the EP's amendments within 42 days",
+                    "value": false
+                },
+                {
+                    "label": "The EC's College of Commissioners vote on the EP's amendments by sinple majority",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-99"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "As part of the ordinary legislative procedure, if the Conciliation Committee agree on a joint text, the text is adopted by the committee delegations with:",
+            "answers": [
+                {
+                    "label": "The EP delegation by an absolute majority of votes and the Council of the European Union delegation generally by a qualified majority votes (in some cases unanimity)",
+                    "value": true
+                },
+                {
+                    "label": "The EP and the Council of the European Union delegations by a simple majority vote",
+                    "value": false
+                },
+                {
+                    "label": "The EP and the Council by an absolute majority of votes",
+                    "value": false
+                },
+                {
+                    "label": "The EP delegation by a simple majority of votes and the Council of the EU delegation generally by a qualified majority of votes (and, in some cases, unanimity)",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-100"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "With the launch of the European Green Deal in December 2019, the EU reaffirmed ist commitment to reduce food waste at retail and consumer level:",
+            "answers": [
+                {
+                    "label": "By 50% by 2030",
+                    "value": true
+                },
+                {
+                    "label": "By 70% by 2050",
+                    "value": false
+                },
+                {
+                    "label": "By 100% by 2030",
+                    "value": false
+                },
+                {
+                    "label": "By 70% by 2030",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-101"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Legislative proceedure",
+            "question": "What is the most common form of decision-making used to adopt EU legislation?",
+            "answers": [
+                {
+                    "label": "Ordinary Legislative Procedure",
+                    "value": true
+                },
+                {
+                    "label": "White paper",
+                    "value": false
+                },
+                {
+                    "label": "Agreement procedure",
+                    "value": false
+                },
+                {
+                    "label": "Special procedure",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-102"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Legislative proceedure",
+            "question": "When was co-decision making officially named the Ordinary Legislative Procedure?",
+            "answers": [
+                {
+                    "label": "Under the Lisbon Treaty in 2009",
+                    "value": true
+                },
+                {
+                    "label": "It was introduced in the Amsterdam Treaty in 1999",
+                    "value": false
+                },
+                {
+                    "label": "It was extended under the Maastricht Treaty in 1992",
+                    "value": false
+                },
+                {
+                    "label": "It has been used since the founding of the European Communities",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-103"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Legislative proceedure",
+            "question": "Which EU institution has the right of initiative",
+            "answers": [
+                {
+                    "label": "The European Commission",
+                    "value": true
+                },
+                {
+                    "label": "The Council of the European Union",
+                    "value": false
+                },
+                {
+                    "label": "The European Parliament",
+                    "value": false
+                },
+                {
+                    "label": "The Council of Europe",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-104"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "Legislative proceedure",
+            "question": "How many main stages, known as readings, does the Ordinary Legislative Procedure set out?",
+            "answers": [
+                {
+                    "label": "3",
+                    "value": true
+                },
+                {
+                    "label": "2",
+                    "value": false
+                },
+                {
+                    "label": "6",
+                    "value": false
+                },
+                {
+                    "label": "1",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-105"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "How does the European Parliament vote during the first reading in the Ordinary Leglislative Procedure files?",
+            "answers": [
+                {
+                    "label": "By simple majority",
+                    "value": true
+                },
+                {
+                    "label": "By qualified majority",
+                    "value": false
+                },
+                {
+                    "label": "Unanimous vote",
+                    "value": false
+                },
+                {
+                    "label": "Early voting",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-106"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "In the Council of the EU, what is the threshold for a qualified majority?",
+            "answers": [
+                {
+                    "label": "55% of member states, representing at least 65% of the EU population",
+                    "value": true
+                },
+                {
+                    "label": "Half of member states",
+                    "value": false
+                },
+                {
+                    "label": "45% of member states, representing half of the EU population",
+                    "value": false
+                },
+                {
+                    "label": "65% of member states, representing at least 55% of the population",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-107"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is a trilogue in the context of the EU’s Ordinary Leglislative Procedure?",
+            "answers": [
+                {
+                    "label": "An informal interinstitutional negotiation between representatives of the three main institutions",
+                    "value": true
+                },
+                {
+                    "label": "A formal interinstitutional meeting to negotiate the legislative file set out in the Treaties",
+                    "value": false
+                },
+                {
+                    "label": "An official step of the OLP held to help draw up the initial legislative proposal",
+                    "value": false
+                },
+                {
+                    "label": "A meeting between the EU Commission and civil society organisations",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-108"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is a Council “general approach”?",
+            "answers": [
+                {
+                    "label": "A political agreement to give the EP an idea of its position before official negotiations",
+                    "value": true
+                },
+                {
+                    "label": "An act to be adopted by the EU Parliament in second reading",
+                    "value": false
+                },
+                {
+                    "label": "A document explaining the way in which the Council usually proceeds in legislative files",
+                    "value": false
+                },
+                {
+                    "label": "A binding piece of legislation applicable in all EU member states, with general application",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-109"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Do the Council and the European Parliament have a time limit for the first reading of the Ordinary Leglislative Procedure?",
+            "answers": [
+                {
+                    "label": "No, they are not subject to any time limit",
+                    "value": true
+                },
+                {
+                    "label": "Yes, negotiations must conclude within three months",
+                    "value": false
+                },
+                {
+                    "label": "The Parliament has no time limit, but the Council does",
+                    "value": false
+                },
+                {
+                    "label": "Yes, the Commission sets the deadline",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-110"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the title given to the Member of the European Parliament responsible for drafting the Parliament's report and who acts as spokesperson during the interinstitutional negotiations?",
+            "answers": [
+                {
+                    "label": "Rapporteur",
+                    "value": true
+                },
+                {
+                    "label": "Shadow",
+                    "value": false
+                },
+                {
+                    "label": "President",
+                    "value": false
+                },
+                {
+                    "label": "Writer",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-111"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which institutions are legislators in the Special Legislative Procedure?",
+            "answers": [
+                {
+                    "label": "Only the Council",
+                    "value": true
+                },
+                {
+                    "label": "The Council and the EU Parliament",
+                    "value": false
+                },
+                {
+                    "label": "The EU Commission, Council and Parliament",
+                    "value": false
+                },
+                {
+                    "label": "The European Council and the Court of Justice of the EU",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-112"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Under the Special Legislative Procedure, the European Parliament:",
+            "answers": [
+                {
+                    "label": "May be consulted on the proposal",
+                    "value": true
+                },
+                {
+                    "label": "Co-decides on an equal footing with the Council",
+                    "value": false
+                },
+                {
+                    "label": "May not act in any circumstance",
+                    "value": false
+                },
+                {
+                    "label": "Amends a legislative proposal",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-113"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the EU’s multiannual financial framework (MFF)?",
+            "answers": [
+                {
+                    "label": "A long-term spending plan that runs for 5-7 years and sets out the EU’s spending priorities and limits",
+                    "value": true
+                },
+                {
+                    "label": "A long-term spending plan that runs for a period of 10 years and sets out funding for specific programmes",
+                    "value": false
+                },
+                {
+                    "label": "A spending plan which the EU Parliament is solely responsible for managing, which it has to discharge every year",
+                    "value": false
+                },
+                {
+                    "label": "A post-COVID recovery plan of €750 billion, led by the EU Commission",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-114"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which of the following was a main source of revenue of the 2021-2027 EU budget?",
+            "answers": [
+                {
+                    "label": "Contributions based on VAT collected by member states",
+                    "value": true
+                },
+                {
+                    "label": "The Common Consolidated Corporate Tax Base (CCCTB)",
+                    "value": false
+                },
+                {
+                    "label": "Borrowing from capital markets",
+                    "value": false
+                },
+                {
+                    "label": "European taxes paid directly by citizens",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-115"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What was the aim of the NextGenerationEU recovery plan?",
+            "answers": [
+                {
+                    "label": "To create a temporary fund with two aims: (i) to support the pandemic recovery, and (ii) to support the green and digital transition",
+                    "value": true
+                },
+                {
+                    "label": "To create a permanent fund to help repair the damage from the pandemic and prevent any future health crisis",
+                    "value": false
+                },
+                {
+                    "label": "To borrow money from the markets to exclusively fund the Green Deal programmes so as to accelerate the green transition",
+                    "value": false
+                },
+                {
+                    "label": "To permanently fund EU programmes with €750 billion in all areas of the EU budget, notably health programmes",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-116"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What are the two legislative components of the Multiannual Financial Framework (MFF)?",
+            "answers": [
+                {
+                    "label": "The Council Regulation laying down the MFF and the Council Decision on the system of Own Resources",
+                    "value": true
+                },
+                {
+                    "label": "The Council Regulation laying down the MFF and the Regulation for the European Recovery Instrument",
+                    "value": false
+                },
+                {
+                    "label": "The Interinstitutional Agreement on budgetary discipline, cooperation on budgetary matters and sound financial management and the Council Regulation laying down the MFF",
+                    "value": false
+                },
+                {
+                    "label": "The Common Provisions Regulation and the Council Regulation laying down the MFF",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-117"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What type of decision allows suspending payments to an EU member state under the Rule of law conditionality mechanism to protect the Union budget?",
+            "answers": [
+                {
+                    "label": "An implementing decision",
+                    "value": true
+                },
+                {
+                    "label": "A delegated act",
+                    "value": false
+                },
+                {
+                    "label": "A Regulation decision",
+                    "value": false
+                },
+                {
+                    "label": "An oral procedure decision",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-118"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "To finance NextGenerationEU, the EU Commission borrowed from capital markets, to provide grants and loans to member states",
+            "answers": [
+                {
+                    "label": "Member states themselves",
+                    "value": true
+                },
+                {
+                    "label": "New sources of revenue (new own resources)",
+                    "value": false
+                },
+                {
+                    "label": "The EU Commission",
+                    "value": false
+                },
+                {
+                    "label": "Multinational companies via a tax",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-119"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Approximately what proportion of the total EU budget is spent on holding European Parliament plenaries in Strasbourg?",
+            "answers": [
+                {
+                    "label": "0.001",
+                    "value": true
+                },
+                {
+                    "label": "0.06",
+                    "value": false
+                },
+                {
+                    "label": "0.03",
+                    "value": false
+                },
+                {
+                    "label": "0.01",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-120"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Who makes up the College of the European Commission?",
+            "answers": [
+                {
+                    "label": "One Commissioner per member state (27 Commissioners), led by the Commission President",
+                    "value": true
+                },
+                {
+                    "label": "The President of the Commission, plus eight Vice-Presidents",
+                    "value": false
+                },
+                {
+                    "label": "The EU Commission President and the High Representative for Foreign Affairs",
+                    "value": false
+                },
+                {
+                    "label": "A team of 20 Commissioners with independent decision-making powers",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-121"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which of these are competencies of the EU Commission?",
+            "answers": [
+                {
+                    "label": "Manages EU policies and allocates EU funding",
+                    "value": true
+                },
+                {
+                    "label": "Adopts and amends legislative proposals",
+                    "value": false
+                },
+                {
+                    "label": "Decides on the EU's foreign and security policies",
+                    "value": false
+                },
+                {
+                    "label": "Decides on the political direction of the EU and adopts the EU budget",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-122"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which of the following is the EU’s independent executive arm?",
+            "answers": [
+                {
+                    "label": "The European Commission",
+                    "value": true
+                },
+                {
+                    "label": "The European Parliament",
+                    "value": false
+                },
+                {
+                    "label": "The Council of the EU",
+                    "value": false
+                },
+                {
+                    "label": "The Court of Justice of the EU",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-123"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Who decides on the European Commission’s internal organisation and assigns portfolios to Commissioners?",
+            "answers": [
+                {
+                    "label": "The EU Commission President",
+                    "value": true
+                },
+                {
+                    "label": "Member States",
+                    "value": false
+                },
+                {
+                    "label": "The European Parliament President",
+                    "value": false
+                },
+                {
+                    "label": "The President of the Council",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-124"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "According to the EU Commission’s rules of procedure, which of the following are the types of internal decision-making procedures?",
+            "answers": [
+                {
+                    "label": "Oral, written, empowerment, and delegation procedures",
+                    "value": true
+                },
+                {
+                    "label": "Delegation and implementation procedures",
+                    "value": false
+                },
+                {
+                    "label": "Regular and exceptional procedures",
+                    "value": false
+                },
+                {
+                    "label": "Oral and written procedures, and special case procedures",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-125"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What was the effect of the United Kingdom’s withdrawal from the EU on the number of seats in the EU Parliament?",
+            "answers": [
+                {
+                    "label": "The total seats were decreased to 705, with some member states gaining seats",
+                    "value": true
+                },
+                {
+                    "label": "The UK’s 73 seats were redistributed evenly amongst member states, maintaining the total of 750 seats",
+                    "value": false
+                },
+                {
+                    "label": "There was no change, there are still currently 750 seats",
+                    "value": false
+                },
+                {
+                    "label": "The 73 British MEPs’ seats were eliminated, leaving 677 seats in total",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-126"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is REACT-EU?",
+            "answers": [
+                {
+                    "label": "Recovery Assistance for Cohesion and the Territories of Europe, an initiative delivered through the Coronavirus Response Investment Initiative",
+                    "value": true
+                },
+                {
+                    "label": "REACTion to the COVID Pandemic from the EU, an initiative delivered through the Coronavirus Response Investment Initiative",
+                    "value": false
+                },
+                {
+                    "label": "REACTion to the COVID Pandemic from the EU, a programme for specific regions especially affected by the pandemic",
+                    "value": false
+                },
+                {
+                    "label": "Health Emergency Preparedness and Reaction, an EU Commission department to prevent, detect, and rapidly respond to health emergencies",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-127"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "How is the number of MEPs per member state calculated?",
+            "answers": [
+                {
+                    "label": "By degressive proportionality: no country can have fewer than 6 or more than 96 MEPs",
+                    "value": true
+                },
+                {
+                    "label": "It is a first-past-the-post electoral system (FPTP or FPP)",
+                    "value": false
+                },
+                {
+                    "label": "It depends on the European election results in each Member State, and small countries always have 5 MEPs to ensure representation",
+                    "value": false
+                },
+                {
+                    "label": "Proportionally to the country’s population size, plus one MEP for large countries",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-128"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Where is the official seat of the EU Parliament?",
+            "answers": [
+                {
+                    "label": "Strasbourg",
+                    "value": true
+                },
+                {
+                    "label": "Strasbourg, Brussels and Luxembourg jointly",
+                    "value": false
+                },
+                {
+                    "label": "Brussels",
+                    "value": false
+                },
+                {
+                    "label": "There is no official seat",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-129"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Members of the European Parliament sit in the chamber according to:",
+            "answers": [
+                {
+                    "label": "Their political affiliation",
+                    "value": true
+                },
+                {
+                    "label": "Their election results",
+                    "value": false
+                },
+                {
+                    "label": "Their nationality",
+                    "value": false
+                },
+                {
+                    "label": "Their result in the EU elections",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-130"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "The European Parliament elections are held every 5 years",
+            "answers": [
+                {
+                    "label": "Half the term, i",
+                    "value": true
+                },
+                {
+                    "label": "The same duration, 5 years",
+                    "value": false
+                },
+                {
+                    "label": "It is negotiated at the start of the mandate",
+                    "value": false
+                },
+                {
+                    "label": "Two-and-a-half years, which cannot be renewed",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-131"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "In the Special Legislative Procedure, for legislative and non-legislative proposals, the consent of the EU Parliament is required:",
+            "answers": [
+                {
+                    "label": "For discrimination, international agreements, Article 7, EU accession and withdrawal",
+                    "value": true
+                },
+                {
+                    "label": "Exclusively for Article 7 (Rule of Law) and Article 50 (withdrawal from the EU) procedures",
+                    "value": false
+                },
+                {
+                    "label": "In all cases",
+                    "value": false
+                },
+                {
+                    "label": "When it is invited to participate in the proce dure by the other institutions",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-132"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which of the following make up EU primary law?",
+            "answers": [
+                {
+                    "label": "EU Treaties",
+                    "value": true
+                },
+                {
+                    "label": "All legislative acts",
+                    "value": false
+                },
+                {
+                    "label": "Regulations, directives, decisions, recommendations and opinions",
+                    "value": false
+                },
+                {
+                    "label": "EU directives and regulations",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-133"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which statement is true about EU regulations?",
+            "answers": [
+                {
+                    "label": "Regulations are of general application, legally binding, and apply immediately in member states",
+                    "value": true
+                },
+                {
+                    "label": "Regulations allow member states to determine how they transpose the law into their national legislation",
+                    "value": false
+                },
+                {
+                    "label": "Regulations are primary legislation of the EU",
+                    "value": false
+                },
+                {
+                    "label": "Regulations are legally binding and have one specific addressee",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-134"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the process of transposition?",
+            "answers": [
+                {
+                    "label": "It is the incorporation of EU directives into member states’ national legislation",
+                    "value": true
+                },
+                {
+                    "label": "It is a necessary process for EU regulations and decisions, since they are not directly applicable",
+                    "value": false
+                },
+                {
+                    "label": "It is a voluntary process from member states, without a specific deadline",
+                    "value": false
+                },
+                {
+                    "label": "It is not a compulsory process and the Commission cannot act if it is not carried out by a member state",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-135"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which of the following is a characteristic of Delegated Acts?",
+            "answers": [
+                {
+                    "label": "They allow the Commission to act swiftly, to amend certain non-essential elements of laws",
+                    "value": true
+                },
+                {
+                    "label": "They enter into force even if the EU Parliament and Council object, so the Commission has full powers",
+                    "value": false
+                },
+                {
+                    "label": "They are used in slow procedures to accelerate the negotiations",
+                    "value": false
+                },
+                {
+                    "label": "They allow member states to immediately modify EU legislation and adapt it to national legislation",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-136"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Delegated Acts are typically used in cases such as:",
+            "answers": [
+                {
+                    "label": "When legislative acts need to be adapted regularly, in line with scientific and technical progress",
+                    "value": true
+                },
+                {
+                    "label": "In the case of directives and regulations, since they apply immediately in member states",
+                    "value": false
+                },
+                {
+                    "label": "In the case of laws to combat discrimination, to protect the most vulnerable",
+                    "value": false
+                },
+                {
+                    "label": "In budgetary procedures, to accelerate the negotiations between institutions",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-137"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Implementing and Delegated Acts are:",
+            "answers": [
+                {
+                    "label": "Non-legislative acts",
+                    "value": true
+                },
+                {
+                    "label": "Adopted under the Ordinary Legislative Procedure",
+                    "value": false
+                },
+                {
+                    "label": "Legislative acts",
+                    "value": false
+                },
+                {
+                    "label": "Regulations and Directives",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-138"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is comitology?",
+            "answers": [
+                {
+                    "label": "A series of procedures which give member states a say in Implementing and Delegated Acts",
+                    "value": true
+                },
+                {
+                    "label": "The process according to which legislative files are distributed between committees in the EU Parliament",
+                    "value": false
+                },
+                {
+                    "label": "Inter-parliamentary groups of MEPs who exchange on specific issues, such as animal welfare or LGBTI",
+                    "value": false
+                },
+                {
+                    "label": "The process by which the Council and EU Parliament can block a Delegated Act",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-139"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "In the EU’s budgetary procedure, who is the budgetary authority?",
+            "answers": [
+                {
+                    "label": "The European Parliament and Council",
+                    "value": true
+                },
+                {
+                    "label": "The EU Commission",
+                    "value": false
+                },
+                {
+                    "label": "DG BUDG",
+                    "value": false
+                },
+                {
+                    "label": "The Court of Auditors",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-140"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the relationship between the multi-annual financial framework (MFF) and the EU’s annual budget?",
+            "answers": [
+                {
+                    "label": "The EU annual budget has to fit within the expenditure ceilings established in the MFF",
+                    "value": true
+                },
+                {
+                    "label": "There is no relationship, they are independent budgets",
+                    "value": false
+                },
+                {
+                    "label": "The MFF is made up of 7 annual budgets",
+                    "value": false
+                },
+                {
+                    "label": "The annual budget is always higher than the MFF in case there are expenditures that were not foreseen when designing the MFF",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-141"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "How are the main EU competences divided?",
+            "answers": [
+                {
+                    "label": "They are exclusive, shared or supporting",
+                    "value": true
+                },
+                {
+                    "label": "They are regular or special",
+                    "value": false
+                },
+                {
+                    "label": "This depends on the principle of subsidiarity",
+                    "value": false
+                },
+                {
+                    "label": "They are binding and non-binding",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-142"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which institution adopts the final decision to conclude international agreements?",
+            "answers": [
+                {
+                    "label": "The Council",
+                    "value": true
+                },
+                {
+                    "label": "The European Commission",
+                    "value": false
+                },
+                {
+                    "label": "It depends on the agreement - for trade it is the Commission, for others it is the Council",
+                    "value": false
+                },
+                {
+                    "label": "The EU Parliament",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-143"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Who attends COREPER II meetings?",
+            "answers": [
+                {
+                    "label": "Permanent representatives of the Member States, who deal with General Foreign Affairs, conomic and Financial, and Justice and Home Affairs configurations of the Council",
+                    "value": true
+                },
+                {
+                    "label": "Permanent representatives of the member states who deal with Employment, Social Policy, Health and Consumer Affairs; Competitiveness (Internal Market, Industry, Research and Space); and Foreign Affairs",
+                    "value": false
+                },
+                {
+                    "label": "Deputy permanent representatives, preparing all Council configurations",
+                    "value": false
+                },
+                {
+                    "label": "Permanent representatives, MEPs and civil society representatives",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-144"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Who can chair COREPER meetings?",
+            "answers": [
+                {
+                    "label": "They can be chaired by an elected chairperson, the rotating 6-month presidency representative, by a representative of the High Representative, or others",
+                    "value": true
+                },
+                {
+                    "label": "They are chaired by the president of the Council of the EU",
+                    "value": false
+                },
+                {
+                    "label": "An appointed specialist who heads the working party",
+                    "value": false
+                },
+                {
+                    "label": "They are always chaired by the delegate of the country holding the rotating 6-month presidency of the Council of the EU",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-145"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Who are members of the European Council?",
+            "answers": [
+                {
+                    "label": "EU heads of state or government, and the Presidents of the European Council and the Commission",
+                    "value": true
+                },
+                {
+                    "label": "EU heads of state, exclusively",
+                    "value": false
+                },
+                {
+                    "label": "EU heads of state or government, and the Presidents of all the other EU institutions",
+                    "value": false
+                },
+                {
+                    "label": "EU heads of government, and external guests invited to their meetings",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-146"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the purpose of the Court of Justice of the EU?",
+            "answers": [
+                {
+                    "label": "To ensure the uniform interpretation of EU law and that EU countries and institutions respect the law",
+                    "value": true
+                },
+                {
+                    "label": "To act as guardian of the EU Treaties",
+                    "value": false
+                },
+                {
+                    "label": "To support its 3 principal judges in deciding on cases brought before the Court",
+                    "value": false
+                },
+                {
+                    "label": "To provide a forum for judges from the 27 member states to formulate uniform legal standards in the member states",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-147"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What are the two main branches of the CJEU?",
+            "answers": [
+                {
+                    "label": "The Court of Justice and the General Court",
+                    "value": true
+                },
+                {
+                    "label": "The Court of Auditors and the General Court",
+                    "value": false
+                },
+                {
+                    "label": "The Court of EU judges and the Specialised Court",
+                    "value": false
+                },
+                {
+                    "label": "The Specialised Court and the General Court",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-148"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "The Court of Justice of the EU is responsible for dealing with:",
+            "answers": [
+                {
+                    "label": "Actions brought by an EU country or the Commission against an EU country for infringing EU law",
+                    "value": true
+                },
+                {
+                    "label": "Individual or State applications of violations of the civil rights set out in the European Convention on Human Rights",
+                    "value": false
+                },
+                {
+                    "label": "Securing the right to life, respect for private life, and freedom of expression",
+                    "value": false
+                },
+                {
+                    "label": "Applying EU law to a dispute brought by a referring court",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-149"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the composition of the CJEU?",
+            "answers": [
+                {
+                    "label": "27 Judges and 11 Advocates General",
+                    "value": true
+                },
+                {
+                    "label": "27 Judges",
+                    "value": false
+                },
+                {
+                    "label": "28 Judges and 28 Counsels",
+                    "value": false
+                },
+                {
+                    "label": "It varies based on the case in question",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-150"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "According to the fundamental principles laid down in Article 5 of the TEU, what does proportionality mean?",
+            "answers": [
+                {
+                    "label": "That the content and scope of EU action may not go beyond what is necessary to achieve the objectives of the treaties",
+                    "value": true
+                },
+                {
+                    "label": "That for non-exclusive competences, the EU may act only if – and in so far as – the objective of a proposed action cannot be sufficiently achieved by the Member States, but could be better achieved at EU level",
+                    "value": false
+                },
+                {
+                    "label": "That the EU can only act in so far as member states have given it the power to do so",
+                    "value": false
+                },
+                {
+                    "label": "That the EU must always act proportionally to the issue at stake",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-151"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is a pre-condition for the Council to be able to vote?",
+            "answers": [
+                {
+                    "label": "A majority of its members must be present",
+                    "value": true
+                },
+                {
+                    "label": "The chair must be the High Representative of the Union for Foreign Affairs and Security Policy",
+                    "value": false
+                },
+                {
+                    "label": "Member states must be represented by a State Secretary",
+                    "value": false
+                },
+                {
+                    "label": "The voting must be unanimous",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-152"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is a Council configuration?",
+            "answers": [
+                {
+                    "label": "It is each of the technical formations of ministers, of which there are 10 in total",
+                    "value": true
+                },
+                {
+                    "label": "A cross-sector grouping of ministers who meet informally to discuss overlapping issues such as health and employment",
+                    "value": false
+                },
+                {
+                    "label": "It is a type of meeting which is open to the public",
+                    "value": false
+                },
+                {
+                    "label": "It is a hierarchical system of Council formations which take individual decisions in the name of the Council",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-153"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "How are EU agencies grouped?",
+            "answers": [
+                {
+                    "label": "Decentralised agencies, executive agencies, EURATOM and EIT",
+                    "value": true
+                },
+                {
+                    "label": "Technical and scientific agencies, managerial agencies and Europol",
+                    "value": false
+                },
+                {
+                    "label": "Technical agencies, EURATOM and EESC and Committee of the Regions",
+                    "value": false
+                },
+                {
+                    "label": "Technical and scientific agencies, EESC and Committee of the Regions",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-154"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is Europol?",
+            "answers": [
+                {
+                    "label": "The European Union Agency for Law Enforcement Cooperation, based in The Hague",
+                    "value": true
+                },
+                {
+                    "label": "The European Police Office and Drugs Unit, based in Lyon",
+                    "value": false
+                },
+                {
+                    "label": "The International Criminal Police Organization, based in Vienna",
+                    "value": false
+                },
+                {
+                    "label": "The European Police Border and Coast Guard Agency, based in Warsaw",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-155"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the role of EFSA?",
+            "answers": [
+                {
+                    "label": "It is a decentralised agency which provides scientific advice on food safety to the EU and member states",
+                    "value": true
+                },
+                {
+                    "label": "It is a part of the European Commission which provides advice on consumer protection in relation to food products",
+                    "value": false
+                },
+                {
+                    "label": "It is an agency with the aim of encouraging healthy eating by EU consumers",
+                    "value": false
+                },
+                {
+                    "label": "It is an agency with the power to control which food products go on the market in the EU",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-156"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What does EIGE stand for when talking about EU agencies?",
+            "answers": [
+                {
+                    "label": "European Institute for Gender Equality",
+                    "value": true
+                },
+                {
+                    "label": "Economic and Investment Generation",
+                    "value": false
+                },
+                {
+                    "label": "European Initiative for Geothermal Energy",
+                    "value": false
+                },
+                {
+                    "label": "European Innovation Governmental Entity",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-157"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Who has responsibility for control of the EU’s external borders?",
+            "answers": [
+                {
+                    "label": "Individual member states with an external border",
+                    "value": true
+                },
+                {
+                    "label": "Frontex",
+                    "value": false
+                },
+                {
+                    "label": "The EU Commission",
+                    "value": false
+                },
+                {
+                    "label": "It is a shared responsibility of the Commission and the member states",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-158"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the European Banking Authority (EBA)?",
+            "answers": [
+                {
+                    "label": "An independent agency for regulation and supervision of the EU banking sector",
+                    "value": true
+                },
+                {
+                    "label": "A department within the European Central Bank which aims to create Single Rulebook in banking",
+                    "value": false
+                },
+                {
+                    "label": "A subsection of the Committee of European Banking Supervisors",
+                    "value": false
+                },
+                {
+                    "label": "A European system for financial supervision run by the European Systemic Risk Board",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-159"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "HERA (Health Emergency Preparedness and Response Authority), created in the aftermath of the COVID-19 pandemic, is:",
+            "answers": [
+                {
+                    "label": "A new European Commission DirectorateGeneral",
+                    "value": true
+                },
+                {
+                    "label": "An EU Executive Agency",
+                    "value": false
+                },
+                {
+                    "label": "An independent body, similar to the EEAS",
+                    "value": false
+                },
+                {
+                    "label": "An EU decentralised agency",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-160"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which are the EU’s common foreign and security policy agencies?",
+            "answers": [
+                {
+                    "label": "European Defence Agency, European Union Institute for Security Studies, European Union Satellite Centre",
+                    "value": true
+                },
+                {
+                    "label": "EEAS, European Union Satellite Centre and Frontex",
+                    "value": false
+                },
+                {
+                    "label": "Frontex, the European Border and Coast Guard and the EEAS",
+                    "value": false
+                },
+                {
+                    "label": "European Atomic Energy Community, Euratom Supply Agency and EEAS",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-161"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the Green Deal and the Climate Law’s intermediate target of reducing net greenhouse gas emissions?",
+            "answers": [
+                {
+                    "label": "By at least 55% by 2030, compared to 1990 levels",
+                    "value": true
+                },
+                {
+                    "label": "By at least 55% by 2050, compared to 1990 levels",
+                    "value": false
+                },
+                {
+                    "label": "By at least 55% by 2030, compared to 2000 levels",
+                    "value": false
+                },
+                {
+                    "label": "By at least 65% by 2050, compared to 1990 levels",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-162"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is Fit for 55?",
+            "answers": [
+                {
+                    "label": "A regulation setting stricter CO2 emission performance standards for new cars and vans",
+                    "value": true
+                },
+                {
+                    "label": "A directive setting stricter CO2 emission performance standards for old cars and vans",
+                    "value": false
+                },
+                {
+                    "label": "A strategy to achieve zero-emission mobility from old cars by 2055",
+                    "value": false
+                },
+                {
+                    "label": "A strategy to offset all emissions from vehicles",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-163"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which of the following is a “Fit for 55” target?",
+            "answers": [
+                {
+                    "label": "100% CO2 emission reductions for both new cars and vans from 2035",
+                    "value": true
+                },
+                {
+                    "label": "55% CO2 emission reductions for old cars by 2030",
+                    "value": false
+                },
+                {
+                    "label": "55% CO2 emission reductions for new cars by 2030",
+                    "value": false
+                },
+                {
+                    "label": "100% CO2 emission reductions for both cars and vans from 2055",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-164"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which economic sectors are included in the EU Green Deal?",
+            "answers": [
+                {
+                    "label": "All sectors",
+                    "value": true
+                },
+                {
+                    "label": "Agriculture, energy and transport",
+                    "value": false
+                },
+                {
+                    "label": "Transport, finance, agriculture and energy",
+                    "value": false
+                },
+                {
+                    "label": "Transport, buildings, and agriculture",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-165"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which of the following is an aim of the EU’s Better Regulation agenda?",
+            "answers": [
+                {
+                    "label": "To make EU laws simpler and better",
+                    "value": true
+                },
+                {
+                    "label": "To remove the subsidiarity principle and take action in new areas",
+                    "value": false
+                },
+                {
+                    "label": "To involve citizens directly in decisionmaking via panels held in member states",
+                    "value": false
+                },
+                {
+                    "label": "To eliminate evidence-based policymaking to ensure legislation is passed more swiftly",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-166"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Better regulation, described as one of the most advanced regulatory approaches in the world, is an objective and responsibility of:",
+            "answers": [
+                {
+                    "label": "All the EU institutions",
+                    "value": true
+                },
+                {
+                    "label": "The EU Commission",
+                    "value": false
+                },
+                {
+                    "label": "Local and regional authorities",
+                    "value": false
+                },
+                {
+                    "label": "The Council of the EU and the European Parliament",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-167"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the name of the portal which citizens can access to participate in the Better regulation agenda?",
+            "answers": [
+                {
+                    "label": "Have your say",
+                    "value": true
+                },
+                {
+                    "label": "European Solidarity Corps",
+                    "value": false
+                },
+                {
+                    "label": "European Citizens Initiative",
+                    "value": false
+                },
+                {
+                    "label": "Consultation process",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-168"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is Regulatory Fitness and Performance (REFIT) in relation to “Better regulation”?",
+            "answers": [
+                {
+                    "label": "A programme to make EU law simpler as well as to reduce unnecessary costs of regulation",
+                    "value": true
+                },
+                {
+                    "label": "A programme to harmonise national legislation with EU legislation",
+                    "value": false
+                },
+                {
+                    "label": "A group of experts who check whether EU programmes are delivering the best results at minimum cost",
+                    "value": false
+                },
+                {
+                    "label": "A toolbox to help the EU Commission carry out impact assessments",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-169"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the internal market of the European Union?",
+            "answers": [
+                {
+                    "label": "A single market which assures the free movement of goods, services, capital and persons",
+                    "value": true
+                },
+                {
+                    "label": "It is another name for the Schengen area",
+                    "value": false
+                },
+                {
+                    "label": "A market created in 1990 to exchange goods and services exclusively within the EU",
+                    "value": false
+                },
+                {
+                    "label": "A single market inside the EU which reduces tariffs and product inspections",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-170"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which of these countries has full access to the internal market of the EU?",
+            "answers": [
+                {
+                    "label": "Norway",
+                    "value": true
+                },
+                {
+                    "label": "Turkey",
+                    "value": false
+                },
+                {
+                    "label": "Switzerland",
+                    "value": false
+                },
+                {
+                    "label": "Canada",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-171"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the European Economic Area (EEA)?",
+            "answers": [
+                {
+                    "label": "The extension of the EU internal market to EFTA countries",
+                    "value": true
+                },
+                {
+                    "label": "The EU market where good, services, capital and people can move freely",
+                    "value": false
+                },
+                {
+                    "label": "An area which applies different rules than the EU internal market",
+                    "value": false
+                },
+                {
+                    "label": "The border-free area which guarantees free movement to more than 400 million EU citizens",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-172"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What are the three pillars of the Digital Single Market?",
+            "answers": [
+                {
+                    "label": "Access, environment, and economy and society",
+                    "value": true
+                },
+                {
+                    "label": "Sustainability, accessibility and consumer rights",
+                    "value": false
+                },
+                {
+                    "label": "Consumer rights, sustainability and environment",
+                    "value": false
+                },
+                {
+                    "label": "Access, consumer rights, and sustainability",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-173"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the power of the EU Commission under competition law?",
+            "answers": [
+                {
+                    "label": "It monitors and investigates anti-competition practices, mergers and state aid",
+                    "value": true
+                },
+                {
+                    "label": "It can halt mergers in any circumstance, without the review of the European Courts because it is a Commission full competence",
+                    "value": false
+                },
+                {
+                    "label": "It intervenes in prices on the national markets, and can fine companies which do not comply",
+                    "value": false
+                },
+                {
+                    "label": "It cannot fine companies for using their bargaining power to impose certain conditions on competitors",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-174"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which of the following are the pillars of competition law?",
+            "answers": [
+                {
+                    "label": "The cartel prohibition, the abuse prohibition and merger control",
+                    "value": true
+                },
+                {
+                    "label": "Control of abuse of market power, and control of take-overs",
+                    "value": false
+                },
+                {
+                    "label": "Free market and use of mergers",
+                    "value": false
+                },
+                {
+                    "label": "Monitoring of anti-competitive practices",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-175"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the highest fine for infringement of EU competition law?",
+            "answers": [
+                {
+                    "label": "10% of a firm's annual turnover",
+                    "value": true
+                },
+                {
+                    "label": "5% of a company’s annual profit",
+                    "value": false
+                },
+                {
+                    "label": "5% of a company’s revenue",
+                    "value": false
+                },
+                {
+                    "label": "10% of a company’s monthly profit",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-176"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Who has the primary role in enforcing EU competition rules?",
+            "answers": [
+                {
+                    "label": "The Commission Directorate-General (DG) for Competition plus national authorities",
+                    "value": true
+                },
+                {
+                    "label": "The Commission has sole responsibility for enforcing EU competition law",
+                    "value": false
+                },
+                {
+                    "label": "The Court of Justice of the EU",
+                    "value": false
+                },
+                {
+                    "label": "The European Anti-Fraud Office (OLAF)",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-177"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which environmental European Citizens' Initiative was the first to gather over one million signatures?",
+            "answers": [
+                {
+                    "label": "Right2Water, water as a public good",
+                    "value": true
+                },
+                {
+                    "label": "Save the bees and farmers",
+                    "value": false
+                },
+                {
+                    "label": "End the cage age; on animal welfare",
+                    "value": false
+                },
+                {
+                    "label": "Ban glyphosate and protect people and the environment",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-178"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is Natura 2000?",
+            "answers": [
+                {
+                    "label": "A network of areas of high biodiversity value in the EU",
+                    "value": true
+                },
+                {
+                    "label": "A 2000 sq km protected area in Sweden considered one of the green lungs of the EU",
+                    "value": false
+                },
+                {
+                    "label": "A group of 2000 natural parks across the EU which citizens can visit for free",
+                    "value": false
+                },
+                {
+                    "label": "A list of 2000 species which are protected under the EU biodiversity law",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-179"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the aim of the EU Emissions Trading System (EU ETS)?",
+            "answers": [
+                {
+                    "label": "It is an EU key tool for reducing greenhouse gas emissions, which allows buying and selling emissions from member states or companies amongst themselves",
+                    "value": true
+                },
+                {
+                    "label": "It is a component of the Common Agricultural Policy which aims to reduce emissions caused by livestock and crop farmers",
+                    "value": false
+                },
+                {
+                    "label": "It is a marketplace for emissions such as methane (CH4) and nitrous oxide (N2O), which enables the reduction of each participating company’s contribution towards climate change",
+                    "value": false
+                },
+                {
+                    "label": "It is a tool to equalise the price of carbon between domestic products and imports",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-180"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the CAP component which is at the centre of the EU Green Deal?",
+            "answers": [
+                {
+                    "label": "Farm to Fork Strategy",
+                    "value": true
+                },
+                {
+                    "label": "Energy Performance of Buildings Regulation",
+                    "value": false
+                },
+                {
+                    "label": "Renewable Energy Roadmap",
+                    "value": false
+                },
+                {
+                    "label": "Sustainable Farmers Initiative",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-181"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "How does the Council usually act in cases of enlargement policy?",
+            "answers": [
+                {
+                    "label": "The General Affairs Council usually decides by unanimity",
+                    "value": true
+                },
+                {
+                    "label": "The General Affairs Council usually decides by qualified majority voting",
+                    "value": false
+                },
+                {
+                    "label": "The Enlargement Council configuration usually decides by qualified majority voting",
+                    "value": false
+                },
+                {
+                    "label": "The Foreign Affairs Council usually decides by qualified majority voting",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-182"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which of these cities are the EU accession criteria named after?",
+            "answers": [
+                {
+                    "label": "Copenhagen",
+                    "value": true
+                },
+                {
+                    "label": "Dublin",
+                    "value": false
+                },
+                {
+                    "label": "Lisbon",
+                    "value": false
+                },
+                {
+                    "label": "Maastricht",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-183"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What was the largest ever enlargement of the EC/EU in terms of number of countries?",
+            "answers": [
+                {
+                    "label": "2004, when 10 new countries joined",
+                    "value": true
+                },
+                {
+                    "label": "2004, when 15 new countries joined",
+                    "value": false
+                },
+                {
+                    "label": "2006, when 10 new countries joined",
+                    "value": false
+                },
+                {
+                    "label": "2001, when 15 new countries joined",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-184"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "When does a candidate country become an EU member state?",
+            "answers": [
+                {
+                    "label": "Only when the accession treaty has been ratified by all parties",
+                    "value": true
+                },
+                {
+                    "label": "After the European Council has given its approval",
+                    "value": false
+                },
+                {
+                    "label": "Once negotiations on all policy areas with the Commission are successfully concluded",
+                    "value": false
+                },
+                {
+                    "label": "After the European Parliament has given its consent to the accession treaty",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-185"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the aim of the Digital Markets Act?",
+            "answers": [
+                {
+                    "label": "To stop unfair practices by companies acting as gatekeepers in the digital economy",
+                    "value": true
+                },
+                {
+                    "label": "To make technology companies carry out risk assessments",
+                    "value": false
+                },
+                {
+                    "label": "To target illegal content, non-transparent advertising, and disinformation",
+                    "value": false
+                },
+                {
+                    "label": "To stop programmed obsolescence of digital products",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-186"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "In terms of total EU energy consumption, how much do buildings consume?",
+            "answers": [
+                {
+                    "label": "40% of the total",
+                    "value": true
+                },
+                {
+                    "label": "20% of the total",
+                    "value": false
+                },
+                {
+                    "label": "35% of the total",
+                    "value": false
+                },
+                {
+                    "label": "90% of the total",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-187"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What did the EU Commission call its proposal in 2022 for a European Gas Demand Reduction Plan and a new Council Regulation on Coordinated Demand Reduction Measures for Gas?",
+            "answers": [
+                {
+                    "label": "Save gas for a safe winter",
+                    "value": true
+                },
+                {
+                    "label": "Safe energy and a safe winter",
+                    "value": false
+                },
+                {
+                    "label": "NextGeneration RePowered",
+                    "value": false
+                },
+                {
+                    "label": "NextGenerationEU",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-188"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the name of the EU’s doctoral and postdoctoral reference programme?",
+            "answers": [
+                {
+                    "label": "Marie Skłodowska-Curie Actions",
+                    "value": true
+                },
+                {
+                    "label": "Copernicus+",
+                    "value": false
+                },
+                {
+                    "label": "Erasmus scholarship programme",
+                    "value": false
+                },
+                {
+                    "label": "Albert Einstein Programme",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-189"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is Horizon Europe?",
+            "answers": [
+                {
+                    "label": "A large EU funding programme for research and innovation",
+                    "value": true
+                },
+                {
+                    "label": "A specific protected area of biodiversity in the EU",
+                    "value": false
+                },
+                {
+                    "label": "An EU plan to protect nature and reverse the degradation of ecosystems",
+                    "value": false
+                },
+                {
+                    "label": "An investigation scheme funded by the EU to support Covid-19 vaccine research",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-190"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which of the following was set up by the EU Commission to support research and innovation policy?",
+            "answers": [
+                {
+                    "label": "The European Research Executive Agency",
+                    "value": true
+                },
+                {
+                    "label": "The Marie Curie Agency for Investigation",
+                    "value": false
+                },
+                {
+                    "label": "The Altiero Spinelli Innovation Hub",
+                    "value": false
+                },
+                {
+                    "label": "The European SciTech Catalyst Agency",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-191"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the European Innovation Council?",
+            "answers": [
+                {
+                    "label": "A flagship innovation programme for break-through technologies",
+                    "value": true
+                },
+                {
+                    "label": "A Council configuration who discuss research and innovation",
+                    "value": false
+                },
+                {
+                    "label": "A Directorate-General of the EU Commission dedicated to Innovation",
+                    "value": false
+                },
+                {
+                    "label": "A Commission collaboration with industry created in the aftermath of the pandemic to accelerate innovations in medical science",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-192"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "How does the European Commission monitor member states’ overall digital progress?",
+            "answers": [
+                {
+                    "label": "With the Digital Economy and Society Index (DESI)",
+                    "value": true
+                },
+                {
+                    "label": "With National Recovery Plans",
+                    "value": false
+                },
+                {
+                    "label": "With the Digital Services Act",
+                    "value": false
+                },
+                {
+                    "label": "With reports from the EU Parliament",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-193"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "In the EU digital economy, what is “interoperability”?",
+            "answers": [
+                {
+                    "label": "It is the exchange of data and knowledge between companies",
+                    "value": true
+                },
+                {
+                    "label": "It refers to online platforms where customers can carry out financial transactions",
+                    "value": false
+                },
+                {
+                    "label": "It is the practice of automatically updating software programmes",
+                    "value": false
+                },
+                {
+                    "label": "It is the name given to monetary transactions between digital banks",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-194"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which organisation has led worldwide negotiations to require multinational companies, including digital platforms, to pay a minimum level of taxes in countries where they operate?",
+            "answers": [
+                {
+                    "label": "The OECD",
+                    "value": true
+                },
+                {
+                    "label": "The European Council",
+                    "value": false
+                },
+                {
+                    "label": "The Group of Five (G5)",
+                    "value": false
+                },
+                {
+                    "label": "The European Tax Platform",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-195"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which EU law sets out the criteria and mechanisms for determining which EU country is responsible for examining an asylum application?",
+            "answers": [
+                {
+                    "label": "The Dublin Regulation",
+                    "value": true
+                },
+                {
+                    "label": "The Copenhagen Regulation",
+                    "value": false
+                },
+                {
+                    "label": "The Schengen Criteria",
+                    "value": false
+                },
+                {
+                    "label": "The Maastricht Treaty",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-196"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "How do EU countries organise their migration and asylum efforts?",
+            "answers": [
+                {
+                    "label": "Based on solidarity",
+                    "value": true
+                },
+                {
+                    "label": "Based on binding quotas",
+                    "value": false
+                },
+                {
+                    "label": "Based on member states’ capacity",
+                    "value": false
+                },
+                {
+                    "label": "Based on member states’ competence",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-197"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What did the EU activate to help Ukrainians fleeing the 2022 Russian invasion?",
+            "answers": [
+                {
+                    "label": "The Temporary Protection Directive",
+                    "value": true
+                },
+                {
+                    "label": "The Safety and Asylum Protocol",
+                    "value": false
+                },
+                {
+                    "label": "A new law on Ukrainian refugees",
+                    "value": false
+                },
+                {
+                    "label": "The EU compulsory resettlement scheme",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-198"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "Which EU Commission Directorate-General is in charge of Migration and Asylum?",
+            "answers": [
+                {
+                    "label": "DG HOME",
+                    "value": true
+                },
+                {
+                    "label": "EEAS",
+                    "value": false
+                },
+                {
+                    "label": "DG NEAR",
+                    "value": false
+                },
+                {
+                    "label": "DG MA",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-199"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is the EU taxonomy?",
+            "answers": [
+                {
+                    "label": "A classification system, establishing a list of environmentally sustainable economic activities, which includes specific nuclear and gas energy activities",
+                    "value": true
+                },
+                {
+                    "label": "A taxation system for energy consumption in the EU aimed at reducing CO2 emissions",
+                    "value": false
+                },
+                {
+                    "label": "A classification system, establishing a list of environmentally sustainable economic activities, which excludes all nuclear and gas energy activities",
+                    "value": false
+                },
+                {
+                    "label": "A taxation system for energy consumption in the EU which is a component of the EU Green Deal",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-200"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "General",
+            "question": "What is REPowerEU?",
+            "answers": [
+                {
+                    "label": "An EU Commission plan to reduce dependency, save, and promote sustainable energy",
+                    "value": true
+                },
+                {
+                    "label": "An EU Parliament proposal to promote liqueified natural gas from the US",
+                    "value": false
+                },
+                {
+                    "label": "A European Citizens initiative aiming at reducing consumer prices for energy",
+                    "value": false
+                },
+                {
+                    "label": "An exception in Spain and Portugal to cap the price of gas, thereby lowering power prices for end users compared with other EU countries",
+                    "value": false
+                }
+            ],
+            "id": "EPSO-201"
+        }
+    ]
+}
