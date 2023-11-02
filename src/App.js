@@ -8,6 +8,8 @@ import Statistics from "./components/Statistics";
 //import data from "./data/data";
 const data = require("./data/data.json");
 
+document.title = "EU Concours"
+
 export default function App() {
 
     // Popup when you try to refresh the page

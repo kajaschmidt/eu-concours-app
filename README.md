@@ -1,9 +1,6 @@
-# Funkschein Fragekatalog App
+# EU Concours Study App
 
-This small React app (see [funkschein-app.de](https://main.do36uuhxqc7fx.amplifyapp.com/)) can be used to study for the German radio certificates: 
-* Short Range Certificate (SRC)
-* Long Range Certificate (LRC)
-* UKW-Sprechfunkzeugnis für den Binnenschiffartsfunk (UBI)
+This small React app (see [add-link])) can be used to study for the concours on EU policy and institutions.
 
 
 ## Run
