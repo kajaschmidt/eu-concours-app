@@ -1,11 +1,11 @@
-import React from "react";
-import LicenseCheckbox from "./LicenseCheckbox";
+import React from "react"
+import LicenseCheckbox from "./LicenseCheckbox"
 
 export default function License(props) {
 
     return (
         <div className="licenses">
-            <h4>Please select for which test you would like to study::</h4>
+            <h4>Please select for which test you would like to study:</h4>
             <div className="licenses--selection">
                 {props.licenses.map((licenseName) => (
                     <LicenseCheckbox

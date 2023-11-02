@@ -1,10 +1,6 @@
 {
-    "id": "src-lrc-ubi",
-    "title": "funkschein-fragem",
-    "copyright": {
-        "text": "Wasserstraßen- und Schifffahrtsverwaltung des Bundes",
-        "src": "https://www.elwis.de/"
-    },
+    "id": "epso",
+    "title": "eu policy and institutions",
     "questions": [
         {
             "license": "EPSO",

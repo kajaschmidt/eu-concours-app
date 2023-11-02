@@ -1,6 +1,6 @@
 import React, {useEffect} from "react"
 import Question from "./Question"
-import ProgressBar from "./ProgressBar";
+import ProgressBar from "./ProgressBar"
 
 export default function QuestionBox(props) {
 

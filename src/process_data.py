@@ -1,5 +1,6 @@
 # Imports
 import json
+import os
 
 import pandas as pd
 
@@ -45,12 +46,8 @@ def get_data() -> None:
 
     # Initiate funkschein dictionary
     funkschein_dict = {
-        "id": "src-lrc-ubi",
-        "title": "funkschein-fragem",
-        "copyright": {
-            "text": "Wasserstraßen- und Schifffahrtsverwaltung des Bundes",
-            "src": "https://www.elwis.de/"
-        }
+        "id": "epso",
+        "title": "eu policy and institutions"
     }
 
     # Create dictionary with question data
@@ -90,6 +87,10 @@ def get_data() -> None:
 
     # Add questions list to funkschein dictionary
     funkschein_dict["questions"] = questions
+
+    # Delete current data file
+    if os.path.exists(JSON_DATA):
+        os.remove(JSON_DATA)
 
     # Save dictionary as json file
     with open(JSON_DATA, 'w') as fp:

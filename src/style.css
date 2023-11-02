@@ -173,7 +173,7 @@ label {
 
 .progressbar--progress {
     height: 100%;
-    background: linear-gradient(90deg, #224f80 1.18%, rgba(118, 165, 215, 0.49) 100%);
+    background: linear-gradient(90deg, #f8be52 1%, #f8d452 100%);
     border-radius: 0px 0px 5px 5px;
     textAlign: 'right';
     margin-right: auto;
@@ -188,3 +188,15 @@ label {
 }
 
 
+
+
+.statistics { 
+    background: linear-gradient(90deg, #224f80 1.18%, #326fb2 100%);
+    border-radius: 5px;
+    align-items: center;
+    display: block;
+    height: 7em;
+    color: white;
+    width: 100%;
+    padding: 1em;
+}
