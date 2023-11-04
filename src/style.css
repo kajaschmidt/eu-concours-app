@@ -203,11 +203,11 @@ footer {
     width: 100%;
     color: white;
     text-align: center;
-    height: 40px;
+    height: 30px;
     background: linear-gradient(90deg, #224f80 1.18%, #326fb2 100%);
-    padding: 15px;
+    padding: 10px;
     bottom: 0;
-    font-size: small;
+    font-size: smalller;
     margin-top: auto;
     text-align: center;
     box-shadow: 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
