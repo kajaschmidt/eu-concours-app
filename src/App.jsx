@@ -312,6 +312,7 @@ console.log(allData.questions)
                     </div>)}
                 <br />
             </main>
+            <footer>Papaya Productions, 2023</footer>
         </div>
   )
 }
