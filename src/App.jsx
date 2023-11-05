@@ -31,6 +31,8 @@ function App() {
     // State of selected license
     const [checkedLicense, setCheckedLicense] = useState({
         epso: false,
+        internal: false,
+        other: false,
         disabled: false,
     })
 
@@ -46,7 +48,7 @@ function App() {
     /* ---------------------- V A R I A B L E S ---------------------- */
 
     // Define licenses for which there are questions
-    const licenses = ["epso"]
+    const licenses = ["epso", "internal", "other"]
 
 
     /* ---------------------- F U N C T I O N S ---------------------- */
@@ -64,6 +66,8 @@ function App() {
         licenses.forEach((licenseName) => {
             if (checkedLicense[licenseName]) {
                 let questions = data.questions.filter((q) => {
+                    //console.log("q.license: "+q.license+", "+"licenseName: "+licenseName.toUpperCase())
+                    //console.log(q.license == licenseName.toUpperCase())
                     return q.license == licenseName.toUpperCase()
                 })
                 relevantQuestions = relevantQuestions.concat(questions)
@@ -173,6 +177,7 @@ function App() {
 
 // Identify the correct answer of a question
 function getCorrectAnswer(question) {
+    console.log(question.id)
     for (let i = 0; i < 4; i++) {
         if (question.answers[i].value === true) {
             return question.answers[i].label
@@ -233,7 +238,9 @@ function handleReset(event) {
         setCheckedLicense(prevData => {
             return {
                 ...prevData,
-    epso: "",
+                epso: "",
+                internal: "",
+                other: "",
                 disabled: false,
             }
         })

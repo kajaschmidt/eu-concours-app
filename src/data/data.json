@@ -1,9 +1,9 @@
 {
-    "id": "epso",
+    "id": "concours",
     "title": "eu policy and institutions",
     "questions": [
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Agencies",
             "question": "Where is the European Defence Agency located?",
             "answers": [
@@ -24,10 +24,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-1"
+            "id": "Internal-1"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Agencies",
             "question": "Which agency is the High Representative (HR), which shapes and conducts the EU's common foreign and security policy (CFSP) heading?",
             "answers": [
@@ -48,10 +48,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-2"
+            "id": "Internal-2"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "General",
             "question": "What do we celebrate each year on 9 May?",
             "answers": [
@@ -72,10 +72,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-3"
+            "id": "Internal-3"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Treaties",
             "question": "Which treaty stated that the High Representative als has a Vice President position?",
             "answers": [
@@ -96,10 +96,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-4"
+            "id": "Internal-4"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "When and where was the European Coal and Steel Community treaty signed?",
             "answers": [
@@ -120,10 +120,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-5"
+            "id": "Other-5"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "What is the purpose of the European Coal and Steel Community?",
             "answers": [
@@ -144,10 +144,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-6"
+            "id": "Other-6"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "When were the treaties of Rome (EEC and EURATOM treaties) signed?",
             "answers": [
@@ -168,10 +168,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-7"
+            "id": "Other-7"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "What is the purpose of the treaties of Rome (EEC and EURATOM treaties)?",
             "answers": [
@@ -192,10 +192,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-8"
+            "id": "Other-8"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "When was the Merger/Brussels Treaty signed?",
             "answers": [
@@ -216,10 +216,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-9"
+            "id": "Other-9"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "What is the purpose of the Merger/Brussels treaty?",
             "answers": [
@@ -240,10 +240,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-10"
+            "id": "Other-10"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "When and where was the Single European Act signed?",
             "answers": [
@@ -264,10 +264,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-11"
+            "id": "Other-11"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "What is the purpose of the Single European Act?",
             "answers": [
@@ -288,10 +288,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-12"
+            "id": "Other-12"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "When and where was the Treaty on the European Union signed?",
             "answers": [
@@ -312,10 +312,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-13"
+            "id": "Other-13"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "What is the purpose of the Treaty on the European Union / the Maastricht Treaty?",
             "answers": [
@@ -336,10 +336,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-14"
+            "id": "Other-14"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "What is the purpose of the Treaty of Amsterdam?",
             "answers": [
@@ -360,10 +360,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-15"
+            "id": "Other-15"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "What is the purpose of the Treaty of Nice?",
             "answers": [
@@ -384,10 +384,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-16"
+            "id": "Other-16"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "What is the purpose of the Treaty of Lisbon?",
             "answers": [
@@ -408,10 +408,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-17"
+            "id": "Other-17"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "When was the Treaty of Lisbon signed?",
             "answers": [
@@ -432,10 +432,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-18"
+            "id": "Other-18"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "When was the Treaty of Amsterdam signed?",
             "answers": [
@@ -456,10 +456,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-19"
+            "id": "Other-19"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "When was the treaty of Nice signed?",
             "answers": [
@@ -480,10 +480,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-20"
+            "id": "Other-20"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "What were the main changes introduced by the Treaty of Lisbon?",
             "answers": [
@@ -504,10 +504,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-21"
+            "id": "Other-21"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "Which treaty laid out the goals and values of the EU?",
             "answers": [
@@ -528,10 +528,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-22"
+            "id": "Other-22"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "Which treaty introduced a new High Representative for Foreign Affairs?",
             "answers": [
@@ -552,10 +552,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-23"
+            "id": "Other-23"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "What were the main changes introduced by the Treaty of Nice?",
             "answers": [
@@ -576,10 +576,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-24"
+            "id": "Other-24"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "What were the main changes introduced by the Treaty of Amsterdam?",
             "answers": [
@@ -600,10 +600,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-25"
+            "id": "Other-25"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "What were the main changes introduced by the Maastrich Treaty?",
             "answers": [
@@ -624,10 +624,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-26"
+            "id": "Other-26"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "What were the main changes introduced by the Single European Act?",
             "answers": [
@@ -648,10 +648,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-27"
+            "id": "Other-27"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "What were the main changes introduced by the Merger Treaty / Brussels Treaty?",
             "answers": [
@@ -672,10 +672,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-28"
+            "id": "Other-28"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "What were the main changes introduced by the Treaties of Rome?",
             "answers": [
@@ -696,10 +696,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-29"
+            "id": "Other-29"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "Which country/countries joined the EU in 1973?",
             "answers": [
@@ -720,10 +720,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-30"
+            "id": "Other-30"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "Which country/countries joined the EU in 1981?",
             "answers": [
@@ -744,10 +744,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-31"
+            "id": "Other-31"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "Which country/countries joined the EU in 1986?",
             "answers": [
@@ -768,10 +768,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-32"
+            "id": "Other-32"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "Which country/countries joined the EU in 1995?",
             "answers": [
@@ -792,10 +792,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-33"
+            "id": "Other-33"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "Which country/countries joined the EU in 2004?",
             "answers": [
@@ -816,10 +816,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-34"
+            "id": "Other-34"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "Which country/countries joined the EU in 2007?",
             "answers": [
@@ -840,10 +840,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-35"
+            "id": "Other-35"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "Which country/countries joined the EU in 2013?",
             "answers": [
@@ -864,10 +864,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-36"
+            "id": "Other-36"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "Treaties",
             "question": "What is a treaty?",
             "answers": [
@@ -888,10 +888,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-37"
+            "id": "Other-37"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Treaties",
             "question": "Where are the EU values laid out?",
             "answers": [
@@ -912,12 +912,12 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-38"
+            "id": "Internal-38"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Treaties",
-            "question": "Which values is the European Union founded upon?",
+            "question": "Which values is the European Union founded upon (Article 2 TEU)?",
             "answers": [
                 {
                     "label": "Human dignity, Freedom, Democracy, Equality, Rule of Law, Human Rights",
@@ -936,10 +936,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-39"
+            "id": "Internal-39"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Declarations",
             "question": "What was the Bratislava Declaration (2016) about?",
             "answers": [
@@ -960,10 +960,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-40"
+            "id": "Internal-40"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Institutions",
             "question": "Who appoints Commissioners?",
             "answers": [
@@ -984,10 +984,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-41"
+            "id": "Internal-41"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "General",
             "question": "Which countries participate in the EU sports week?",
             "answers": [
@@ -1008,10 +1008,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-42"
+            "id": "Internal-42"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Trade",
             "question": "Which countries represented 12% of EU trade?",
             "answers": [
@@ -1032,10 +1032,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-43"
+            "id": "Internal-43"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Trade",
             "question": "Which countries are the top 4 EU trading partners?",
             "answers": [
@@ -1056,34 +1056,130 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-44"
+            "id": "Internal-44"
         },
         {
-            "license": "EPSO",
-            "chapter": "?",
-            "question": "[Generalised Scheme of Preferences]",
+            "license": "INTERNAL",
+            "chapter": "Trade",
+            "question": "What does the Generalised Scheme of Preferences (GSP) do?",
             "answers": [
                 {
-                    "label": "1971",
+                    "label": "The GSP removes import duties from products from vulnerable developing countries coming into the EU market to help alleviate poverty and create jobs in those countries, based on international values and principles, including labour and humsn rights.",
                     "value": true
                 },
                 {
-                    "label": "4 strands: GSP, GSP+, GSP ++, EBA",
+                    "label": "The GSP removes import duties from products from vulnerable developing countries coming into the EU market to help alleviate environments challenges.",
                     "value": false
                 },
                 {
-                    "label": "EBA: need to respect international climate agreement",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "Any developing country is automatically added to GSP",
+                    "label": "?",
                     "value": false
                 }
             ],
-            "id": "EPSO-45"
+            "id": "Internal-45"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
+            "chapter": "Trade",
+            "question": "What does the EU's Generalised Scheme of Preferences (GDP) arrangemenet \"Standard GSP\" do?",
+            "answers": [
+                {
+                    "label": "The arrangement is for low and lower-middle income countries. This means a partial or full removal of customs duties on two-thirds of tariff lines.",
+                    "value": true
+                },
+                {
+                    "label": "The arrangement is a special incentive arrangement for sustainable development and good governance. The arrangement slashes these same tariffs to 0% for vulnerable low- and lower-middle income countries that implement 27 international conventions related to labour and human rights, environmental and climate protection, and good governance.",
+                    "value": false
+                },
+                {
+                    "label": "The arrangement is the special arrangement for least developed countries (LDCs), providing them with duty-free, quota-free access to the EU market for all products except arms and ammunition.",
+                    "value": false
+                },
+                {
+                    "label": "The arrangement does not exist.",
+                    "value": false
+                }
+            ],
+            "id": "Other-46"
+        },
+        {
+            "license": "OTHER",
+            "chapter": "Trade",
+            "question": "What does the EU's Generalised Scheme of Preferences (GDP) arrangemenet \"GSP+\" do?",
+            "answers": [
+                {
+                    "label": "The arrangement is a special incentive arrangement for sustainable development and good governance. The arrangement slashes these same tariffs to 0% for vulnerable low- and lower-middle income countries that implement 27 international conventions related to labour and human rights, environmental and climate protection, and good governance.",
+                    "value": true
+                },
+                {
+                    "label": "The arrangement is the special arrangement for least developed countries (LDCs), providing them with duty-free, quota-free access to the EU market for all products except arms and ammunition.",
+                    "value": false
+                },
+                {
+                    "label": "The arrangement is for low and lower-middle income countries. This means a partial or full removal of customs duties on two-thirds of tariff lines.",
+                    "value": false
+                },
+                {
+                    "label": "The arrangement does not exist.",
+                    "value": false
+                }
+            ],
+            "id": "Other-47"
+        },
+        {
+            "license": "OTHER",
+            "chapter": "Trade",
+            "question": "What does the EU's Generalised Scheme of Preferences (GSP) arrangemenet \"EBA\" (Everything But Arms) do?",
+            "answers": [
+                {
+                    "label": "The arrangement is the special arrangement for least developed countries (LDCs), providing them with duty-free, quota-free access to the EU market for all products except arms and ammunition.",
+                    "value": true
+                },
+                {
+                    "label": "The arrangement is a special incentive arrangement for sustainable development and good governance. The arrangement slashes these same tariffs to 0% for vulnerable low- and lower-middle income countries that implement 27 international conventions related to labour and human rights, environmental and climate protection, and good governance.",
+                    "value": false
+                },
+                {
+                    "label": "The arrangement is for low and lower-middle income countries. This means a partial or full removal of customs duties on two-thirds of tariff lines.",
+                    "value": false
+                },
+                {
+                    "label": "The arrangement does not exist.",
+                    "value": false
+                }
+            ],
+            "id": "Other-48"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "Trade",
+            "question": "Which of the following points is true about the EU's Generalised Scheme of Preferences (GSP)?",
+            "answers": [
+                {
+                    "label": "The GSP was first created in 1971.",
+                    "value": true
+                },
+                {
+                    "label": "The GSP consists of four strands, namely the GSP, GSP+, GSP ++ and the EBA.",
+                    "value": false
+                },
+                {
+                    "label": "Part of the EBA is the need to respect international climate agreements.",
+                    "value": false
+                },
+                {
+                    "label": "Any developing country is automatically added to the GSP.",
+                    "value": false
+                }
+            ],
+            "id": "Internal-47"
+        },
+        {
+            "license": "INTERNAL",
             "chapter": "?",
             "question": "The MEDIA strand Creative Europe does not support…",
             "answers": [
@@ -1092,22 +1188,22 @@
                     "value": true
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 }
             ],
-            "id": "EPSO-46"
+            "id": "Internal-48"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "?",
             "question": "Which one is not a priority of IPA III?",
             "answers": [
@@ -1128,10 +1224,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-47"
+            "id": "Internal-49"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Digital",
             "question": "Which points are not part of the priorities of the Digital Europe Programme?",
             "answers": [
@@ -1152,82 +1248,82 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-48"
+            "id": "Internal-50"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "?",
             "question": "Which points are part of the priorities of the Digital Europe Programme?",
             "answers": [
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": true
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 }
             ],
-            "id": "EPSO-49"
+            "id": "Internal-51"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "?",
             "question": "Which parts are a proprity of IPA III?",
             "answers": [
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": true
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 }
             ],
-            "id": "EPSO-50"
+            "id": "Internal-52"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "?",
             "question": "What is the Farm to Fork Strategy?",
             "answers": [
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": true
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 }
             ],
-            "id": "EPSO-51"
+            "id": "Internal-53"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Agriculture",
             "question": "What are the pesticide targets of the Farm to Fork Strategy?",
             "answers": [
@@ -1248,10 +1344,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-52"
+            "id": "Internal-54"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "General",
             "question": "What was the first Regulation adopted in 1958 about?",
             "answers": [
@@ -1272,10 +1368,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-53"
+            "id": "Internal-55"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "General",
             "question": "Can the European Parliament overthrow the European Commission?",
             "answers": [
@@ -1296,34 +1392,34 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-54"
+            "id": "Internal-56"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "?",
             "question": "What are the proprities of the Council's strategic agenda for 2019-2024?",
             "answers": [
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": true
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 }
             ],
-            "id": "EPSO-55"
+            "id": "Internal-57"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "General",
             "question": "What is not part of the priorities of the Council's Strategic Agenda for 2019-2024?",
             "answers": [
@@ -1344,10 +1440,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-56"
+            "id": "Internal-58"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "General",
             "question": "Which of these is not a Common Foreign and Security Policy priority?",
             "answers": [
@@ -1368,34 +1464,34 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-57"
+            "id": "Internal-59"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "?",
             "question": "What are the proprities of the Common Foreign and Security Policy?",
             "answers": [
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": true
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 }
             ],
-            "id": "EPSO-58"
+            "id": "Other-60"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "General",
             "question": "What is contrary to Schengen rules?",
             "answers": [
@@ -1416,10 +1512,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-59"
+            "id": "Internal-61"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "?",
             "question": "Which funding programme relates only to the environment",
             "answers": [
@@ -1440,10 +1536,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-60"
+            "id": "Internal-62"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "General",
             "question": "What is the status of the EU and member states in the WTO?",
             "answers": [
@@ -1464,10 +1560,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-61"
+            "id": "Internal-63"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "General",
             "question": "Which member state receives more support for Wine production?",
             "answers": [
@@ -1488,10 +1584,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-62"
+            "id": "Internal-64"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Banking",
             "question": "What is the objective of the European Investment Bank?",
             "answers": [
@@ -1512,10 +1608,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-63"
+            "id": "Internal-65"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Agency",
             "question": "What is the role of the European Food Safety Agency?",
             "answers": [
@@ -1536,10 +1632,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-64"
+            "id": "Internal-66"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Agency",
             "question": "What is the role of the European Medicines Agency?",
             "answers": [
@@ -1560,10 +1656,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-65"
+            "id": "Internal-67"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Decision-making",
             "question": "What is understood under the \"co-decision\"?",
             "answers": [
@@ -1584,34 +1680,34 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-66"
+            "id": "Internal-68"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "?",
             "question": "Which of the below is correct",
             "answers": [
                 {
-                    "label": "Article 3 of the TFEU promotes peace, ist values and the well-being of ist citizens",
+                    "label": "Article 3 of the TFEU promotes peace, its values and the well-being of its citizens",
                     "value": true
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 }
             ],
-            "id": "EPSO-67"
+            "id": "Internal-69"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "General",
             "question": "Which statement is correct about Schengen?",
             "answers": [
@@ -1632,10 +1728,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-68"
+            "id": "Internal-70"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "General",
             "question": "How many EU member states are there?",
             "answers": [
@@ -1656,10 +1752,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-69"
+            "id": "Other-71"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "General",
             "question": "How many member states form part of the Eurozone?",
             "answers": [
@@ -1680,10 +1776,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-70"
+            "id": "Other-72"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "General",
             "question": "Which member states are not part of the Eurozone?",
             "answers": [
@@ -1704,10 +1800,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-71"
+            "id": "Other-73"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "General",
             "question": "Which non-EU member states are part of the Schengen area?",
             "answers": [
@@ -1728,10 +1824,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-72"
+            "id": "Other-74"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "General",
             "question": "Which EU member states are not part of the Schengen Area?",
             "answers": [
@@ -1752,10 +1848,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-73"
+            "id": "Other-75"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "General",
             "question": "How many countries form part of the Schengen area?",
             "answers": [
@@ -1776,10 +1872,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-74"
+            "id": "Other-76"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "General",
             "question": "Which EU member state has the larges and the smallest surface area?",
             "answers": [
@@ -1800,10 +1896,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-75"
+            "id": "Other-77"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "General",
             "question": "Which  countries have the largest population in the EU?",
             "answers": [
@@ -1824,10 +1920,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-76"
+            "id": "Other-78"
         },
         {
-            "license": "EPSO",
+            "license": "OTHER",
             "chapter": "General",
             "question": "Which countries have the smallest population in the EU?",
             "answers": [
@@ -1848,10 +1944,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-77"
+            "id": "Other-79"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Unsure",
             "question": "Which of the following is correct regarding the use of GMO in the EU?",
             "answers": [
@@ -1872,10 +1968,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-78"
+            "id": "Internal-80"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "?",
             "question": "[OLP-related question]",
             "answers": [
@@ -1896,19 +1992,19 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-79"
+            "id": "Internal-81"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "General",
             "question": "How are MEPs elected?",
             "answers": [
                 {
-                    "label": "Via national lists and regional constituencies",
+                    "label": "Via national litss and regional constituencies",
                     "value": true
                 },
                 {
-                    "label": "Via european electoral lists",
+                    "label": "Via european electoral litss",
                     "value": false
                 },
                 {
@@ -1920,10 +2016,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-80"
+            "id": "Internal-82"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Digital",
             "question": "What are the main goals of the Cyber Resliency Act?",
             "answers": [
@@ -1944,10 +2040,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-81"
+            "id": "Internal-83"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Unsure",
             "question": "Which statement is correct about the Council configurations?",
             "answers": [
@@ -1964,19 +2060,19 @@
                     "value": false
                 },
                 {
-                    "label": "EYCS does not exist anymore after the Lisbon Treaty",
+                    "label": "EYCS does not exits anymore after the Lisbon Treaty",
                     "value": false
                 }
             ],
-            "id": "EPSO-82"
+            "id": "Internal-84"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "?",
             "question": "Where do border checks for animals from thrid-party countries take place?",
             "answers": [
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": true
                 },
                 {
@@ -1992,10 +2088,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-83"
+            "id": "Internal-85"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Decision-making",
             "question": "What does the codification of a legislative act refer to?",
             "answers": [
@@ -2016,10 +2112,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-84"
+            "id": "Internal-86"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Trade",
             "question": "Which of the following is correct regarding the TTIP negotions with the US that started in 2013?",
             "answers": [
@@ -2040,10 +2136,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-85"
+            "id": "Internal-87"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Budget",
             "question": "Which of the following is not a revenue source of the EU?",
             "answers": [
@@ -2064,34 +2160,34 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-86"
+            "id": "Internal-88"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "?",
             "question": "What are the main revenue sources of the EU?",
             "answers": [
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": true
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 }
             ],
-            "id": "EPSO-87"
+            "id": "Internal-89"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "?",
             "question": "What of the following is correct about the Conference on the Future of Europe?",
             "answers": [
@@ -2112,15 +2208,15 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-88"
+            "id": "Internal-90"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "?",
             "question": "[Question on ESF]",
             "answers": [
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": true
                 },
                 {
@@ -2136,34 +2232,34 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-89"
+            "id": "Internal-91"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "?",
             "question": "Which headings in the MFF received the largest allocations?",
             "answers": [
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": true
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 }
             ],
-            "id": "EPSO-90"
+            "id": "Internal-92"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "?",
             "question": "What is Next Generation EU?",
             "answers": [
@@ -2172,22 +2268,22 @@
                     "value": true
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 }
             ],
-            "id": "EPSO-91"
+            "id": "Internal-93"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "?",
             "question": "[Conference on the Future of Europe]",
             "answers": [
@@ -2208,10 +2304,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-92"
+            "id": "Internal-94"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "?",
             "question": "Which statement is true about the Minimum Wage Directive?",
             "answers": [
@@ -2232,12 +2328,12 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-93"
+            "id": "Internal-95"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "?",
-            "question": "What is the objective of the Green Deal?",
+            "question": "What is the EU's NextGenerationEU?",
             "answers": [
                 {
                     "label": "Make the EU the first carbon neutral continent by 2050",
@@ -2248,67 +2344,75 @@
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
-                }
-            ],
-            "id": "EPSO-94"
-        },
-        {
-            "license": "EPSO",
-            "chapter": "?",
-            "question": "What is teh recovery and resilience facility?",
-            "answers": [
+                },
                 {
-                    "label": "An instrument to support the recovery after covid",
+                    "label": "An instrument that is part of NextGeneration EU to support the recovery after covid and to build a greener, more digital and resilient future.",
                     "value": true
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "?",
                     "value": false
                 }
             ],
-            "id": "EPSO-95"
+            "id": "Internal-96"
         },
         {
-            "license": "EPSO",
-            "chapter": "?",
-            "question": "How is the MFF approved?",
+            "license": "INTERNAL",
+            "chapter": "Budget",
+            "question": "What is the Multiannual Financial Framework (MFF)?",
             "answers": [
                 {
-                    "label": "nan",
+                    "label": "The RCF is financed by the EU budget based on contributions made by member states.",
                     "value": true
                 },
                 {
-                    "label": "nan",
+                    "label": "The RCF is financed by the Commission issueing bonds on behalf of the EU, which are available to member states",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "The RRF is crucial to implement the REPowerEU plan, which is the Commission's response to the socio-economic hardship and global energy market disruption caused by the war in Ukraine",
                     "value": false
                 },
                 {
-                    "label": "nan",
+                    "label": "Member States use the funds provided by the RRF to implement reforms/investments to make economies and societies more sustainable, resilient and prepared for the green and digital transitions to address the recommendations made under the European Semester framework.",
+                    "value": false
+                },
+                {
+                    "label": "EU’s long-term budgetary plan that is typically negotiated every seven years. The MFF provides a framework for annual budgeting, ensuring consistency and continuity in funding for various EU policies and programs.",
+                    "value": true
+                },
+                {
+                    "label": "EU’s yearly budgetary plan that is typically negotiated every year. The MFF provides a framework for annual budgeting, ensuring consistency and continuity in funding for various EU policies and programs.",
+                    "value": false
+                },
+                {
+                    "label": "EU’s long-term budgetary plan that is typically negotiated every seven years. The MFF provides a framework for budgeting and funding on the capital market.",
+                    "value": false
+                },
+                {
+                    "label": "EU’s yearly budgetary plan that is typically negotiated every year. The MFF provides a framework for budgeting and funding on the capital market.",
                     "value": false
                 }
             ],
-            "id": "EPSO-96"
+            "id": "Internal-97"
         },
         {
-            "license": "EPSO",
-            "chapter": "General",
+            "license": "INTERNAL",
+            "chapter": "Budget",
             "question": "Which EU body is responsible for managing the network of EU delegations throughout the world?",
             "answers": [
                 {
@@ -2328,10 +2432,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-97"
+            "id": "Internal-98"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "General",
             "question": "According to the European Parliament's rules of precedure rule 182 \"voting procedures\", the following voting procedure shall apply to texts submitted to the European Parliamentary plenary session:",
             "answers": [
@@ -2352,12 +2456,12 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-98"
+            "id": "Internal-99"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "General",
-            "question": "The TFEU sets out four stages for the budgetary procedure. Accordingly, after the EC has drafted the budget, the Council has adopted ist position and, if the EP adopts amendments to the Council, the next step sees:",
+            "question": "The TFEU sets out four stages for the budgetary procedure. Accordingly, after the EC has drafted the budget, the Council has adopted its position and, if the EP adopts amendments to the Council, the next step sees:",
             "answers": [
                 {
                     "label": "The formation of a conciliation committee",
@@ -2376,10 +2480,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-99"
+            "id": "Internal-100"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "General",
             "question": "As part of the ordinary legislative procedure, if the Conciliation Committee agree on a joint text, the text is adopted by the committee delegations with:",
             "answers": [
@@ -2400,12 +2504,12 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-100"
+            "id": "Internal-101"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "General",
-            "question": "With the launch of the European Green Deal in December 2019, the EU reaffirmed ist commitment to reduce food waste at retail and consumer level:",
+            "question": "With the launch of the European Green Deal in December 2019, the EU reaffirmed its commitment to reduce food waste at retail and consumer level:",
             "answers": [
                 {
                     "label": "By 50% by 2030",
@@ -2424,10 +2528,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-101"
+            "id": "Internal-102"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Legislative proceedure",
             "question": "What is the most common form of decision-making used to adopt EU legislation?",
             "answers": [
@@ -2448,10 +2552,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-102"
+            "id": "Internal-103"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Legislative proceedure",
             "question": "When was co-decision making officially named the Ordinary Legislative Procedure?",
             "answers": [
@@ -2472,10 +2576,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-103"
+            "id": "Internal-104"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Legislative proceedure",
             "question": "Which EU institution has the right of initiative",
             "answers": [
@@ -2496,10 +2600,10 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-104"
+            "id": "Internal-105"
         },
         {
-            "license": "EPSO",
+            "license": "INTERNAL",
             "chapter": "Legislative proceedure",
             "question": "How many main stages, known as readings, does the Ordinary Legislative Procedure set out?",
             "answers": [
@@ -2520,7 +2624,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-105"
+            "id": "Internal-106"
         },
         {
             "license": "EPSO",
@@ -2544,7 +2648,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-106"
+            "id": "Epso-107"
         },
         {
             "license": "EPSO",
@@ -2568,7 +2672,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-107"
+            "id": "Epso-108"
         },
         {
             "license": "EPSO",
@@ -2592,7 +2696,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-108"
+            "id": "Epso-109"
         },
         {
             "license": "EPSO",
@@ -2616,7 +2720,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-109"
+            "id": "Epso-110"
         },
         {
             "license": "EPSO",
@@ -2640,7 +2744,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-110"
+            "id": "Epso-111"
         },
         {
             "license": "EPSO",
@@ -2664,7 +2768,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-111"
+            "id": "Epso-112"
         },
         {
             "license": "EPSO",
@@ -2688,7 +2792,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-112"
+            "id": "Epso-113"
         },
         {
             "license": "EPSO",
@@ -2712,7 +2816,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-113"
+            "id": "Epso-114"
         },
         {
             "license": "EPSO",
@@ -2736,7 +2840,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-114"
+            "id": "Epso-115"
         },
         {
             "license": "EPSO",
@@ -2760,7 +2864,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-115"
+            "id": "Epso-116"
         },
         {
             "license": "EPSO",
@@ -2784,7 +2888,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-116"
+            "id": "Epso-117"
         },
         {
             "license": "EPSO",
@@ -2808,7 +2912,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-117"
+            "id": "Epso-118"
         },
         {
             "license": "EPSO",
@@ -2832,12 +2936,12 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-118"
+            "id": "Epso-119"
         },
         {
             "license": "EPSO",
             "chapter": "General",
-            "question": "To finance NextGenerationEU, the EU Commission borrowed from capital markets, to provide grants and loans to member states",
+            "question": "To finance NextGenerationEU, the EU Commission borrowed from capital markets, to provide grants and loans to member states. Who of the following is responsible for repaying the loan component?",
             "answers": [
                 {
                     "label": "Member states themselves",
@@ -2856,7 +2960,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-119"
+            "id": "Epso-120"
         },
         {
             "license": "EPSO",
@@ -2880,7 +2984,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-120"
+            "id": "Epso-121"
         },
         {
             "license": "EPSO",
@@ -2904,7 +3008,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-121"
+            "id": "Epso-122"
         },
         {
             "license": "EPSO",
@@ -2928,7 +3032,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-122"
+            "id": "Epso-123"
         },
         {
             "license": "EPSO",
@@ -2952,7 +3056,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-123"
+            "id": "Epso-124"
         },
         {
             "license": "EPSO",
@@ -2976,7 +3080,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-124"
+            "id": "Epso-125"
         },
         {
             "license": "EPSO",
@@ -3000,7 +3104,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-125"
+            "id": "Epso-126"
         },
         {
             "license": "EPSO",
@@ -3012,7 +3116,7 @@
                     "value": true
                 },
                 {
-                    "label": "The UK’s 73 seats were redistributed evenly amongst member states, maintaining the total of 750 seats",
+                    "label": "The UK’s 73 seats were reditsributed evenly amongst member states, maintaining the total of 750 seats",
                     "value": false
                 },
                 {
@@ -3024,7 +3128,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-126"
+            "id": "Epso-127"
         },
         {
             "license": "EPSO",
@@ -3032,7 +3136,7 @@
             "question": "What is REACT-EU?",
             "answers": [
                 {
-                    "label": "Recovery Assistance for Cohesion and the Territories of Europe, an initiative delivered through the Coronavirus Response Investment Initiative",
+                    "label": "Recovery Assitsance for Cohesion and the Territories of Europe, an initiative delivered through the Coronavirus Response Investment Initiative",
                     "value": true
                 },
                 {
@@ -3048,7 +3152,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-127"
+            "id": "Epso-128"
         },
         {
             "license": "EPSO",
@@ -3072,7 +3176,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-128"
+            "id": "Epso-129"
         },
         {
             "license": "EPSO",
@@ -3096,7 +3200,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-129"
+            "id": "Epso-130"
         },
         {
             "license": "EPSO",
@@ -3120,15 +3224,15 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-130"
+            "id": "Epso-131"
         },
         {
             "license": "EPSO",
             "chapter": "General",
-            "question": "The European Parliament elections are held every 5 years",
+            "question": "The European Parliament elections are held every 5 years.  How long is its President’s term?",
             "answers": [
                 {
-                    "label": "Half the term, i",
+                    "label": "Half the term, i.e., two-and-a-half years",
                     "value": true
                 },
                 {
@@ -3144,7 +3248,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-131"
+            "id": "Epso-132"
         },
         {
             "license": "EPSO",
@@ -3168,7 +3272,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-132"
+            "id": "Epso-133"
         },
         {
             "license": "EPSO",
@@ -3192,7 +3296,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-133"
+            "id": "Epso-134"
         },
         {
             "license": "EPSO",
@@ -3216,7 +3320,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-134"
+            "id": "Epso-135"
         },
         {
             "license": "EPSO",
@@ -3240,12 +3344,12 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-135"
+            "id": "Epso-136"
         },
         {
             "license": "EPSO",
             "chapter": "General",
-            "question": "Which of the following is a characteristic of Delegated Acts?",
+            "question": "Which of the following is a characteritsic of Delegated Acts?",
             "answers": [
                 {
                     "label": "They allow the Commission to act swiftly, to amend certain non-essential elements of laws",
@@ -3264,7 +3368,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-136"
+            "id": "Epso-137"
         },
         {
             "license": "EPSO",
@@ -3288,7 +3392,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-137"
+            "id": "Epso-138"
         },
         {
             "license": "EPSO",
@@ -3312,7 +3416,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-138"
+            "id": "Epso-139"
         },
         {
             "license": "EPSO",
@@ -3324,7 +3428,7 @@
                     "value": true
                 },
                 {
-                    "label": "The process according to which legislative files are distributed between committees in the EU Parliament",
+                    "label": "The process according to which legislative files are ditsributed between committees in the EU Parliament",
                     "value": false
                 },
                 {
@@ -3336,7 +3440,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-139"
+            "id": "Epso-140"
         },
         {
             "license": "EPSO",
@@ -3360,7 +3464,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-140"
+            "id": "Epso-141"
         },
         {
             "license": "EPSO",
@@ -3384,7 +3488,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-141"
+            "id": "Epso-142"
         },
         {
             "license": "EPSO",
@@ -3408,7 +3512,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-142"
+            "id": "Epso-143"
         },
         {
             "license": "EPSO",
@@ -3432,7 +3536,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-143"
+            "id": "Epso-144"
         },
         {
             "license": "EPSO",
@@ -3456,7 +3560,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-144"
+            "id": "Epso-145"
         },
         {
             "license": "EPSO",
@@ -3472,7 +3576,7 @@
                     "value": false
                 },
                 {
-                    "label": "An appointed specialist who heads the working party",
+                    "label": "An appointed specialits who heads the working party",
                     "value": false
                 },
                 {
@@ -3480,7 +3584,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-145"
+            "id": "Epso-146"
         },
         {
             "license": "EPSO",
@@ -3504,7 +3608,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-146"
+            "id": "Epso-147"
         },
         {
             "license": "EPSO",
@@ -3528,7 +3632,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-147"
+            "id": "Epso-148"
         },
         {
             "license": "EPSO",
@@ -3552,7 +3656,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-148"
+            "id": "Epso-149"
         },
         {
             "license": "EPSO",
@@ -3576,7 +3680,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-149"
+            "id": "Epso-150"
         },
         {
             "license": "EPSO",
@@ -3600,7 +3704,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-150"
+            "id": "Epso-151"
         },
         {
             "license": "EPSO",
@@ -3624,7 +3728,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-151"
+            "id": "Epso-152"
         },
         {
             "license": "EPSO",
@@ -3648,7 +3752,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-152"
+            "id": "Epso-153"
         },
         {
             "license": "EPSO",
@@ -3656,11 +3760,11 @@
             "question": "What is a Council configuration?",
             "answers": [
                 {
-                    "label": "It is each of the technical formations of ministers, of which there are 10 in total",
+                    "label": "It is each of the technical formations of minitsers, of which there are 10 in total",
                     "value": true
                 },
                 {
-                    "label": "A cross-sector grouping of ministers who meet informally to discuss overlapping issues such as health and employment",
+                    "label": "A cross-sector grouping of minitsers who meet informally to discuss overlapping issues such as health and employment",
                     "value": false
                 },
                 {
@@ -3672,7 +3776,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-153"
+            "id": "Epso-154"
         },
         {
             "license": "EPSO",
@@ -3696,7 +3800,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-154"
+            "id": "Epso-155"
         },
         {
             "license": "EPSO",
@@ -3720,7 +3824,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-155"
+            "id": "Epso-156"
         },
         {
             "license": "EPSO",
@@ -3744,7 +3848,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-156"
+            "id": "Epso-157"
         },
         {
             "license": "EPSO",
@@ -3768,7 +3872,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-157"
+            "id": "Epso-158"
         },
         {
             "license": "EPSO",
@@ -3792,7 +3896,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-158"
+            "id": "Epso-159"
         },
         {
             "license": "EPSO",
@@ -3816,7 +3920,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-159"
+            "id": "Epso-160"
         },
         {
             "license": "EPSO",
@@ -3840,7 +3944,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-160"
+            "id": "Epso-161"
         },
         {
             "license": "EPSO",
@@ -3864,7 +3968,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-161"
+            "id": "Epso-162"
         },
         {
             "license": "EPSO",
@@ -3888,7 +3992,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-162"
+            "id": "Epso-163"
         },
         {
             "license": "EPSO",
@@ -3912,7 +4016,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-163"
+            "id": "Epso-164"
         },
         {
             "license": "EPSO",
@@ -3936,7 +4040,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-164"
+            "id": "Epso-165"
         },
         {
             "license": "EPSO",
@@ -3960,7 +4064,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-165"
+            "id": "Epso-166"
         },
         {
             "license": "EPSO",
@@ -3984,7 +4088,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-166"
+            "id": "Epso-167"
         },
         {
             "license": "EPSO",
@@ -4008,7 +4112,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-167"
+            "id": "Epso-168"
         },
         {
             "license": "EPSO",
@@ -4032,7 +4136,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-168"
+            "id": "Epso-169"
         },
         {
             "license": "EPSO",
@@ -4056,7 +4160,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-169"
+            "id": "Epso-170"
         },
         {
             "license": "EPSO",
@@ -4080,7 +4184,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-170"
+            "id": "Epso-171"
         },
         {
             "license": "EPSO",
@@ -4104,7 +4208,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-171"
+            "id": "Epso-172"
         },
         {
             "license": "EPSO",
@@ -4128,7 +4232,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-172"
+            "id": "Epso-173"
         },
         {
             "license": "EPSO",
@@ -4152,7 +4256,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-173"
+            "id": "Epso-174"
         },
         {
             "license": "EPSO",
@@ -4176,7 +4280,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-174"
+            "id": "Epso-175"
         },
         {
             "license": "EPSO",
@@ -4200,7 +4304,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-175"
+            "id": "Epso-176"
         },
         {
             "license": "EPSO",
@@ -4224,7 +4328,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-176"
+            "id": "Epso-177"
         },
         {
             "license": "EPSO",
@@ -4248,7 +4352,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-177"
+            "id": "Epso-178"
         },
         {
             "license": "EPSO",
@@ -4272,7 +4376,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-178"
+            "id": "Epso-179"
         },
         {
             "license": "EPSO",
@@ -4292,11 +4396,11 @@
                     "value": false
                 },
                 {
-                    "label": "A list of 2000 species which are protected under the EU biodiversity law",
+                    "label": "A lits of 2000 species which are protected under the EU biodiversity law",
                     "value": false
                 }
             ],
-            "id": "EPSO-179"
+            "id": "Epso-180"
         },
         {
             "license": "EPSO",
@@ -4320,7 +4424,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-180"
+            "id": "Epso-181"
         },
         {
             "license": "EPSO",
@@ -4344,7 +4448,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-181"
+            "id": "Epso-182"
         },
         {
             "license": "EPSO",
@@ -4368,7 +4472,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-182"
+            "id": "Epso-183"
         },
         {
             "license": "EPSO",
@@ -4392,7 +4496,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-183"
+            "id": "Epso-184"
         },
         {
             "license": "EPSO",
@@ -4416,7 +4520,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-184"
+            "id": "Epso-185"
         },
         {
             "license": "EPSO",
@@ -4440,7 +4544,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-185"
+            "id": "Epso-186"
         },
         {
             "license": "EPSO",
@@ -4464,7 +4568,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-186"
+            "id": "Epso-187"
         },
         {
             "license": "EPSO",
@@ -4488,7 +4592,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-187"
+            "id": "Epso-188"
         },
         {
             "license": "EPSO",
@@ -4512,7 +4616,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-188"
+            "id": "Epso-189"
         },
         {
             "license": "EPSO",
@@ -4536,7 +4640,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-189"
+            "id": "Epso-190"
         },
         {
             "license": "EPSO",
@@ -4560,7 +4664,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-190"
+            "id": "Epso-191"
         },
         {
             "license": "EPSO",
@@ -4584,7 +4688,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-191"
+            "id": "Epso-192"
         },
         {
             "license": "EPSO",
@@ -4608,7 +4712,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-192"
+            "id": "Epso-193"
         },
         {
             "license": "EPSO",
@@ -4632,7 +4736,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-193"
+            "id": "Epso-194"
         },
         {
             "license": "EPSO",
@@ -4656,7 +4760,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-194"
+            "id": "Epso-195"
         },
         {
             "license": "EPSO",
@@ -4680,7 +4784,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-195"
+            "id": "Epso-196"
         },
         {
             "license": "EPSO",
@@ -4704,7 +4808,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-196"
+            "id": "Epso-197"
         },
         {
             "license": "EPSO",
@@ -4728,7 +4832,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-197"
+            "id": "Epso-198"
         },
         {
             "license": "EPSO",
@@ -4752,7 +4856,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-198"
+            "id": "Epso-199"
         },
         {
             "license": "EPSO",
@@ -4776,7 +4880,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-199"
+            "id": "Epso-200"
         },
         {
             "license": "EPSO",
@@ -4784,7 +4888,7 @@
             "question": "What is the EU taxonomy?",
             "answers": [
                 {
-                    "label": "A classification system, establishing a list of environmentally sustainable economic activities, which includes specific nuclear and gas energy activities",
+                    "label": "A classification system, establishing a lits of environmentally sustainable economic activities, which includes specific nuclear and gas energy activities",
                     "value": true
                 },
                 {
@@ -4792,7 +4896,7 @@
                     "value": false
                 },
                 {
-                    "label": "A classification system, establishing a list of environmentally sustainable economic activities, which excludes all nuclear and gas energy activities",
+                    "label": "A classification system, establishing a lits of environmentally sustainable economic activities, which excludes all nuclear and gas energy activities",
                     "value": false
                 },
                 {
@@ -4800,7 +4904,7 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-200"
+            "id": "Epso-201"
         },
         {
             "license": "EPSO",
@@ -4824,7 +4928,2047 @@
                     "value": false
                 }
             ],
-            "id": "EPSO-201"
+            "id": "Epso-202"
+        },
+        {
+            "license": "OTHER",
+            "chapter": "LexGlossary",
+            "question": "According to Article 31 of the Treaty on European Union (TEU), how can a country that constructively abstains qualify their abstention?",
+            "answers": [
+                {
+                    "label": "By making a formal declaration.",
+                    "value": true
+                },
+                {
+                    "label": "By voting against the proposed action.",
+                    "value": false
+                },
+                {
+                    "label": "By seeking approval from the non-EU country in question.",
+                    "value": false
+                },
+                {
+                    "label": "By joining a different voting bloc within the EU.",
+                    "value": false
+                }
+            ],
+            "id": "Other-203"
+        },
+        {
+            "license": "OTHER",
+            "chapter": "LexGlossary",
+            "question": "What is the purpose of \"constructive abstention\" in the European Union's decision-making process?",
+            "answers": [
+                {
+                    "label": "To allow a country to abstain from voting without blocking the decision.",
+                    "value": true
+                },
+                {
+                    "label": "To express strong support for a particular action",
+                    "value": false
+                },
+                {
+                    "label": "To completely block any action or decision proposed by the EU.",
+                    "value": false
+                },
+                {
+                    "label": "To give veto power to the country abstaining from the vote.",
+                    "value": false
+                }
+            ],
+            "id": "Other-204"
+        },
+        {
+            "license": "OTHER",
+            "chapter": "LexGlossary",
+            "question": "Which article of the Treaty on the Functioning of the European Union (TFEU) sets out the conditions and principles that any country wishing to become a member of the European Union must conform to?",
+            "answers": [
+                {
+                    "label": "Article 49 TFEU",
+                    "value": true
+                },
+                {
+                    "label": "Article 6(1) TFEU",
+                    "value": false
+                },
+                {
+                    "label": "Article 1 TFEU",
+                    "value": false
+                },
+                {
+                    "label": "Article 27 TFEU",
+                    "value": false
+                }
+            ],
+            "id": "Other-205"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "What is the second Sustainable Development Goal (SDG) goal?",
+            "answers": [
+                {
+                    "label": "Zero hunger",
+                    "value": true
+                },
+                {
+                    "label": "No poverty",
+                    "value": false
+                },
+                {
+                    "label": "Quality Education",
+                    "value": false
+                },
+                {
+                    "label": "Health and Well-being",
+                    "value": false
+                }
+            ],
+            "id": "Internal-206"
+        },
+        {
+            "license": "OTHER",
+            "chapter": "UN website",
+            "question": "What are the 17 Sustainable Development Goals (SDGs), listed in the right order?",
+            "answers": [
+                {
+                    "label": "No poverty; Zero hunger; Good health and well-being; Quality education; Gender equality; Clean water and sanitisation; Affordable and clean energy; Decent work and economic growth; Industry, Innovation and Infrastructure; Reduced inequalities; Sustainable cities and communities; Responsible consumption and production; Climate action; Life below water; Life on Land; Peace, Justice and strong institutions; Partnerships for the Goals",
+                    "value": true
+                },
+                {
+                    "label": "Zero hunger; No poverty; Quality education; Gender equality; Clean water and sanitisation; Affordable and clean energy; Good health and well-being; Decent work and economic growth; Industry, Innovation and Infrastructure; Reduced inequalities; Sustainable cities and communities; Responsible consumption and production; Climate action; Life below water; Life on Land; Peace, Justice and strong institutions; Partnerships for the Goals",
+                    "value": false
+                },
+                {
+                    "label": "No poverty; Zero hunger; Quality education; Gender equality; Clean water and sanitisation; Affordable and clean energy; Good health and well-being; Decent work and economic growth; Industry, Innovation and Infrastructure; Reduced inequalities; Sustainable cities and communities; Responsible consumption and production; Climate action; Life below water; Life on Land; Peace, Justice and strong institutions; Partnerships for the Goals",
+                    "value": false
+                },
+                {
+                    "label": "No poverty; Zero hunger; Good health and well-being; Quality education; Gender equality; Clean water and sanitisation; Decent work and economic growth; Industry, Innovation and Infrastructure; Reduced inequalities; Responsible consumption and production; Climate action; Affordable and clean energy; Sustainable cities and communities; Life below water; Life on Land; Peace, Justice and strong institutions; Partnerships for the Goals",
+                    "value": false
+                }
+            ],
+            "id": "Other-207"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "Who will issue the digital euro?",
+            "answers": [
+                {
+                    "label": "European Central Bank (ECB)",
+                    "value": true
+                },
+                {
+                    "label": "European Investment Bank (EIB)",
+                    "value": false
+                },
+                {
+                    "label": "ECB and EIB",
+                    "value": false
+                },
+                {
+                    "label": "No bank, since the digital euro is based on blockchain",
+                    "value": false
+                }
+            ],
+            "id": "Internal-208"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "What is the Fehmarn Belt fixed link?",
+            "answers": [
+                {
+                    "label": "The Fehmarn Belt fixed link or Fehmarn Belt tunnle is an 18km under-construction immersed tunnel connecting the Danish island of Lolland with the German island of Fehmarn.",
+                    "value": true
+                },
+                {
+                    "label": "The Fehmarn Belt fixed link is a ferry connecting the Danish island of Lolland with the German island of Fehmarn.",
+                    "value": false
+                },
+                {
+                    "label": "The Fehmarn Belt fixed link is an EU investment programme into Blockchain quantum mechanics.",
+                    "value": false
+                },
+                {
+                    "label": "The Fehmarn Belt fixed link is a project by the European Investment Bank.",
+                    "value": false
+                }
+            ],
+            "id": "Internal-209"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "Which statement is wrong about EU's initiative \"Women TechEU\"?",
+            "answers": [
+                {
+                    "label": "Women in TechEU supports girls and young women in school and university by organising educational programmes led by women.",
+                    "value": true
+                },
+                {
+                    "label": "Women in TechEU launched in 2021 as a new EU scheme supporting deep-tech start-ups.",
+                    "value": false
+                },
+                {
+                    "label": "Women in TechEU is a scheme offering first-class coaching and mentoring to female founders, as well as targeted funding to help take their business to the next level.",
+                    "value": false
+                },
+                {
+                    "label": "Women in TechEU was funded under the European Innovation Ecosystems work programme of Horizon Europe.",
+                    "value": false
+                }
+            ],
+            "id": "Internal-210"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "Which statement is correct about the 2022 regional competitiveness index?",
+            "answers": [
+                {
+                    "label": "Regions in Spain, Portugal and Greece have made progress.",
+                    "value": true
+                },
+                {
+                    "label": "Poorest regions are still in the Southern Mediterranean states.",
+                    "value": false
+                },
+                {
+                    "label": "Romanian and Bulgarian regions have come closer to the EU average.",
+                    "value": false
+                },
+                {
+                    "label": "Czech and Slovakian regions have come closer to the EU average.",
+                    "value": false
+                }
+            ],
+            "id": "Internal-211"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "What is the EU Regional Competitiveness Index (RCI)?",
+            "answers": [
+                {
+                    "label": "The RCI measures the major factors of competitiveness for all NUTS-2 level regions across the EU to have an indication about the ability of a region to offer an attractive environment for firms and residents to live and work.",
+                    "value": true
+                },
+                {
+                    "label": "The RCI measures the major factors of competitiveness for all NUTS-1 level regions across the EU to have an indication about the ability of a region to offer an attractive environment for firms and residents to live and work.",
+                    "value": false
+                },
+                {
+                    "label": "The RCI measures the major factors of climate action in all NUTS-2 level regions across the EU to have an indication about the ability of a region to offer an attractive environment for wildlife and humans to have access to nature.",
+                    "value": false
+                },
+                {
+                    "label": "The RCI measures the ability of a country to offer an attractive environment for firms and residents to live and work.",
+                    "value": false
+                }
+            ],
+            "id": "Internal-212"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "What is a follow-up action from the Conference on the Future of Europe?",
+            "answers": [
+                {
+                    "label": "Comprehensive mental heal approach",
+                    "value": true
+                },
+                {
+                    "label": "A mental health action plan",
+                    "value": false
+                },
+                {
+                    "label": "A mental health brochure",
+                    "value": false
+                },
+                {
+                    "label": "A focus on sports with regards to mental health",
+                    "value": false
+                }
+            ],
+            "id": "Internal-213"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "What is the Conference on the Future of Europe (CoFE)?",
+            "answers": [
+                {
+                    "label": "CoFE was a citizen-led series of debates and discussions that ran from 2021 to 2022 to allow people from Europe to share their ideas.",
+                    "value": true
+                },
+                {
+                    "label": "CoFE was a series of debates held by the European Parliament",
+                    "value": false
+                },
+                {
+                    "label": "CoFE was a series of public debates held by national politicians.",
+                    "value": false
+                },
+                {
+                    "label": "CoFE was a citizen-led series of debates and discussions that ran from 2021 to 2022 to allow people from Europe to suggest concrete policy proposals to the European Comission.",
+                    "value": false
+                }
+            ],
+            "id": "Internal-214"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "?",
+            "question": "[Which of the proposal is right]",
+            "answers": [
+                {
+                    "label": "European Peace Facility off-budget instrument actions relating to military and defence matters",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Internal-215"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "What is not part of the \"Healthier Together\" initiative?",
+            "answers": [
+                {
+                    "label": "Cancer",
+                    "value": true
+                },
+                {
+                    "label": "Neurological disorder",
+                    "value": false
+                },
+                {
+                    "label": "Diabetes",
+                    "value": false
+                },
+                {
+                    "label": "Cardiovascular diseases",
+                    "value": false
+                }
+            ],
+            "id": "Internal-216"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "What is the award called with which the European Commission recognises organisations whose work uses the power of sport to improve social inclusion for disadvantaged groups?",
+            "answers": [
+                {
+                    "label": "#BeInclusive EU Sport Awards",
+                    "value": true
+                },
+                {
+                    "label": "Inclusive@Sport Awards",
+                    "value": false
+                },
+                {
+                    "label": "EUShare Sport Awards",
+                    "value": false
+                },
+                {
+                    "label": "#BeDiverse EU Sport Awards",
+                    "value": false
+                }
+            ],
+            "id": "Internal-217"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "What is the link between the Construction Products Regulation and the Ecodesign for Sustainable Products Regulation (ESPR)?",
+            "answers": [
+                {
+                    "label": "Some construction products are covered by the ESPR.",
+                    "value": true
+                },
+                {
+                    "label": "The two regulations are not related.",
+                    "value": false
+                },
+                {
+                    "label": "The ESPR prohibits the use of construction products in sustainable products.",
+                    "value": false
+                },
+                {
+                    "label": "The ESPR might allow the use of construction products in sustainable products.",
+                    "value": false
+                }
+            ],
+            "id": "Internal-218"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "What does the acronym \"SURE\" stand for?",
+            "answers": [
+                {
+                    "label": "Support to mitigate Unemployment Risks in an Emergency (SURE)",
+                    "value": true
+                },
+                {
+                    "label": "Support to reduce risk of Unemployment in Emergency situations (SURE)",
+                    "value": false
+                },
+                {
+                    "label": "Support to mitigate Universal Risks with Environmental issues (SURE)",
+                    "value": false
+                },
+                {
+                    "label": "Service to mitigate Unemployment Risks in an Emergency (SURE)",
+                    "value": false
+                }
+            ],
+            "id": "Internal-219"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "Which of the following is wrong regarding the adoption proceedure of the EU budget?",
+            "answers": [
+                {
+                    "label": "The Conciliation Committee is composed of equal numbers of representatives of the Council, the Parliament and the Commission.",
+                    "value": true
+                },
+                {
+                    "label": "The European Commission submits a draft budget no later than 1 September under Article 314(2) TFEU and may modify the draft budget at a later stage to take account of new developments, but no later than the point at which the Conciliation Committee is convened.",
+                    "value": false
+                },
+                {
+                    "label": "The European Parliament  has 42 days in which to respond. During this period, it may either approve the Council’s position or decline to take a decision, in which case the budget is deemed finally adopted, or else Parliament can propose amendments if they are adopted by a majority of its members, in which case the amended draft is referred back to both the Council and the Commission. The President of Parliament, in agreement with the President of the Council, must then immediately convene a meeting of the  Conciliation Committee.",
+                    "value": false
+                },
+                {
+                    "label": "The Council adopts its position on the draft budget and forwards it to Parliament (under Article 314(3) TFEU it must be submitted by 1 October at the latest, but according to the pragmatic timetable it is sent by the end of July). The Council must inform Parliament in full of the reasons why it adopted its position.",
+                    "value": false
+                }
+            ],
+            "id": "Internal-220"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "What are the four stages of the adoption proceedure of the EU budget?",
+            "answers": [
+                {
+                    "label": "1) Submission of the draft budget by the Commission, 2) Adoption of the Council's position on the draft budget, 3) Parliament's reading, and 4) Meeting of the Conciliation Committee (equal number of representatives from the Council and the Parliament) and adoption of the budget within 21 days",
+                    "value": true
+                },
+                {
+                    "label": "1) Submission of the draft budget by the Commission, 2) Parliament's reading, 3) Adoption of the Council's position on the draft budget, and 4) Meeting of the Conciliation Committee (equal number of representatives from the Council, the Parliament and the Commission) and adoption of the budget",
+                    "value": false
+                },
+                {
+                    "label": "1) Submission of the draft budget by the Commission, 2) Adoption of the Council's position on the draft budget, 3) Parliament's reading, and 4) Meeting of the Conciliation Committee (equal number of representatives from the Council, the Parliament and the Commission) and adoption of the budget",
+                    "value": false
+                },
+                {
+                    "label": "1) Submission of the draft budget by the Commission, 2) Parliament's reading, 3) Adoption of the Council's position on the draft budget, and 4) Meeting of the Conciliation Committee (equal number of representatives from the Council and the Parliament) and adoption of the budget",
+                    "value": false
+                }
+            ],
+            "id": "Internal-221"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "What is the Commission's forecast of the household purchasing power in 2023?",
+            "answers": [
+                {
+                    "label": "The household PP will increase in 2023.",
+                    "value": true
+                },
+                {
+                    "label": "The household PP will decrease in 2023.",
+                    "value": false
+                },
+                {
+                    "label": "The household PP will remain the same as in 2019.",
+                    "value": false
+                },
+                {
+                    "label": "The household PP will remain the same as in 2016.",
+                    "value": false
+                }
+            ],
+            "id": "Internal-222"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "Which statement is incorrect about the LIFE programme?",
+            "answers": [
+                {
+                    "label": "The LIFE programme was set up in 1990.",
+                    "value": true
+                },
+                {
+                    "label": "The LIFE programme has the following four subprogrammes: Nature and biodiversity, Circular economy and quality of life, Climate change migration and adaptation, Clean energy transition",
+                    "value": false
+                },
+                {
+                    "label": "The LIFE programme is the EU's funding instrument for the environment and climate action.",
+                    "value": false
+                },
+                {
+                    "label": "The LIFE programme is the EU financial instrument to support the EU Green Deal's objectives to environmental, nature conservation and climate projects by helping companies bring their green products technologies, services and processes to the market.",
+                    "value": false
+                }
+            ],
+            "id": "Internal-223"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "Which of the following is not a subprogramme of the LIFE programme?",
+            "answers": [
+                {
+                    "label": "Carbon neutrality",
+                    "value": true
+                },
+                {
+                    "label": "Nature and biodiversity",
+                    "value": false
+                },
+                {
+                    "label": "Circular economy and quality of life",
+                    "value": false
+                },
+                {
+                    "label": "Clearn energy transition",
+                    "value": false
+                }
+            ],
+            "id": "Internal-224"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "Which country was the last to ratify the Lisbon Treaty?",
+            "answers": [
+                {
+                    "label": "Czechia (November 2009)",
+                    "value": true
+                },
+                {
+                    "label": "Hungary (February 2008)",
+                    "value": false
+                },
+                {
+                    "label": "France (February 2008)",
+                    "value": false
+                },
+                {
+                    "label": "Poland (October 2009)",
+                    "value": false
+                }
+            ],
+            "id": "Internal-225"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "?",
+            "question": "What is wrong regarding passenger rights for buses and coaches in the EU?",
+            "answers": [
+                {
+                    "label": "Only EU citizens can benefit from a compensation in case of a delayed or cancelled transportation.",
+                    "value": true
+                },
+                {
+                    "label": "The passenger rights only apply to regular long distance bus anc coach transport (i.e., trips beyond 200km that are more than 2h late)",
+                    "value": false
+                },
+                {
+                    "label": "You cannot be refused transport because of your disability or reduced mobility except for reasons justified on the grounds of safety or of the design of the vehicle or infrastructure.",
+                    "value": false
+                },
+                {
+                    "label": "[DOUBLE CHECK PREVIOUS ANSWERS]",
+                    "value": false
+                }
+            ],
+            "id": "Internal-226"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "? ",
+            "question": "Which statement is wrong about migration in the EU?",
+            "answers": [
+                {
+                    "label": "Most international immigrants arrived through criminal channels",
+                    "value": true
+                },
+                {
+                    "label": "There ar emore migrants in 2022 than there were in 2016",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Internal-227"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "? ",
+            "question": "What is not covered by the EU trade strategy?",
+            "answers": [
+                {
+                    "label": "The WTO reform is a big priority of the EU trate strategy.",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Internal-228"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "? ",
+            "question": "What are the main priorities of the EU trade strategy?",
+            "answers": [
+                {
+                    "label": "?",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Internal-229"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "? ",
+            "question": "[Bauhaus]",
+            "answers": [
+                {
+                    "label": "[Classic definition about sustainability, inclusivity and aesthetics]",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Internal-230"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "Which statement is incorrect about EMFAF?",
+            "answers": [
+                {
+                    "label": "EMFAF covers fisheries and natural marine resources",
+                    "value": true
+                },
+                {
+                    "label": "EMFAF constributes to the international ocean governance framework",
+                    "value": false
+                },
+                {
+                    "label": "EMFAF budget is EU 6.1 billion",
+                    "value": false
+                },
+                {
+                    "label": "EMFAF contributes to food safety and therefore several SDG goals",
+                    "value": false
+                }
+            ],
+            "id": "Internal-231"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "Which two instruments leverage private instruments in Global Europe?",
+            "answers": [
+                {
+                    "label": "European Fund for Sustainable Development Plus (EFSD+) and External Action Guarantee",
+                    "value": true
+                },
+                {
+                    "label": "European Fund for Sustainable Development (EFSD) and External Action Guarantee",
+                    "value": false
+                },
+                {
+                    "label": "External Action Guarantee and External Action Guarantee Plus",
+                    "value": false
+                },
+                {
+                    "label": "European Fund for Sustainable Development (EFSD) and European Fund for Sustainable Development Plus (EFSD+)",
+                    "value": false
+                }
+            ],
+            "id": "Internal-232"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "?",
+            "question": "What is Global Europe?",
+            "answers": [
+                {
+                    "label": "?",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Internal-233"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "Which objectives are not covered by the EU proprities?",
+            "answers": [
+                {
+                    "label": "Empowering people through space and defence technologies",
+                    "value": true
+                },
+                {
+                    "label": "Modern and resource economy",
+                    "value": false
+                },
+                {
+                    "label": "Global leadership",
+                    "value": false
+                },
+                {
+                    "label": "Fake news, disinformation, hate speech online, external interferences",
+                    "value": false
+                }
+            ],
+            "id": "Internal-234"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "Which statement is incorrect about good administrative behavior",
+            "answers": [
+                {
+                    "label": "Good administrative behaviour was created in 2004",
+                    "value": true
+                },
+                {
+                    "label": "Good administrative behaviour was created in 2002",
+                    "value": false
+                },
+                {
+                    "label": "The Good administrative behavior is aimed to inform the public about thier right to expect certain behaviour from the Commission.",
+                    "value": false
+                },
+                {
+                    "label": "The Good administrative behavior is aimed to inform the public about their right regarding what they can expect when interacting with the Commission.",
+                    "value": false
+                }
+            ],
+            "id": "Internal-235"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "EU officials can accept gifts and favours in the following situations:",
+            "answers": [
+                {
+                    "label": "Under certain conditions (e.g., value less than 50 EUR)",
+                    "value": true
+                },
+                {
+                    "label": "Never",
+                    "value": false
+                },
+                {
+                    "label": "Under certain conditions (e.g., value less than 500 EUR)",
+                    "value": false
+                },
+                {
+                    "label": "Always",
+                    "value": false
+                }
+            ],
+            "id": "Internal-236"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "Who represents the European Union in negotiations regarding international agreements?",
+            "answers": [
+                {
+                    "label": "The European Commission",
+                    "value": true
+                },
+                {
+                    "label": "The High Representative",
+                    "value": false
+                },
+                {
+                    "label": "A group of experts appointed by the Council",
+                    "value": false
+                },
+                {
+                    "label": "The Council",
+                    "value": false
+                }
+            ],
+            "id": "Internal-237"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "What is the first target of the EU climate pact?",
+            "answers": [
+                {
+                    "label": "2030",
+                    "value": true
+                },
+                {
+                    "label": "2035",
+                    "value": false
+                },
+                {
+                    "label": "2040",
+                    "value": false
+                },
+                {
+                    "label": "2050",
+                    "value": false
+                }
+            ],
+            "id": "Internal-238"
+        },
+        {
+            "license": "OTHER",
+            "chapter": "?",
+            "question": "What are the main goals of the EU climate pact?",
+            "answers": [
+                {
+                    "label": "?",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Other-239"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "According the the Commission, what percentage of consumption is represented by buildings?",
+            "answers": [
+                {
+                    "label": "0.4",
+                    "value": true
+                },
+                {
+                    "label": "0.55",
+                    "value": false
+                },
+                {
+                    "label": "0.5",
+                    "value": false
+                },
+                {
+                    "label": "0.25",
+                    "value": false
+                }
+            ],
+            "id": "Internal-240"
+        },
+        {
+            "license": "OTHER",
+            "chapter": "LexGlossary",
+            "question": "Which of the following is NOT one of the criteria for EU accession as outlined in the text?",
+            "answers": [
+                {
+                    "label": "Strong military alliances with EU member states.",
+                    "value": true
+                },
+                {
+                    "label": "The ability to take on the obligations of membership.",
+                    "value": false
+                },
+                {
+                    "label": "Adherence to the aims of political, economic, and monetary union.",
+                    "value": false
+                },
+                {
+                    "label": "The capacity to effectively implement the rules, standards, and policies.",
+                    "value": false
+                }
+            ],
+            "id": "Other-241"
+        },
+        {
+            "license": "OTHER",
+            "chapter": "LexGlossary",
+            "question": "What is meant by the term 'acquis' in the context of EU accession criteria?",
+            "answers": [
+                {
+                    "label": "The body of EU law, which includes rules, standards, and policies.",
+                    "value": true
+                },
+                {
+                    "label": "The official language of the European Union.",
+                    "value": false
+                },
+                {
+                    "label": "The customs and traditions of the country seeking EU membership.",
+                    "value": false
+                },
+                {
+                    "label": "A formal declaration of intent to join the EU.",
+                    "value": false
+                }
+            ],
+            "id": "Other-242"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "Which countries are currently in negotiations regarding accession to the EU?",
+            "answers": [
+                {
+                    "label": "Turkey (1999), North Macedonia (2005), Montenegro (2010), Serbia (2012), Albania (2014), Moldova (2022), Ukraine (2022), Bosnia and Herzegovina (2022).",
+                    "value": true
+                },
+                {
+                    "label": "North Macedonia (2005), Montenegro (2010), Serbia (2012), Albania (2014), Moldova (2022), Ukraine (2022), Bosnia and Herzegovina (2022).",
+                    "value": false
+                },
+                {
+                    "label": "Turkey (1999), North Macedonia (2005), Montenegro (2010),  Albania (2014), Moldova (2022), Ukraine (2022)",
+                    "value": false
+                },
+                {
+                    "label": "Turkey (1999), North Macedonia (2005), Montenegro (2010), Serbia (2012), Albania (2014), Ukraine (2022), Bosnia and Herzegovina (2022).",
+                    "value": false
+                }
+            ],
+            "id": "Internal-243"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "Which countries have sformally submitted applications for membership and are considered potential candidates by the European Union?",
+            "answers": [
+                {
+                    "label": "Kosovo (2022), Georgia (2022)",
+                    "value": true
+                },
+                {
+                    "label": "Serbia (2020), Kosovo (2022)",
+                    "value": false
+                },
+                {
+                    "label": "Kosovo (2022)",
+                    "value": false
+                },
+                {
+                    "label": "Serbia (2020)",
+                    "value": false
+                }
+            ],
+            "id": "Internal-244"
+        },
+        {
+            "license": "OTHER",
+            "chapter": "?",
+            "question": "What does IPA Assistance refer to?",
+            "answers": [
+                {
+                    "label": "?",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Other-245"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "Which country did not qualify for IPA assistance in 2022?",
+            "answers": [
+                {
+                    "label": "Moldova",
+                    "value": true
+                },
+                {
+                    "label": "Turkey",
+                    "value": false
+                },
+                {
+                    "label": "North Macedonia",
+                    "value": false
+                },
+                {
+                    "label": "Kosovo",
+                    "value": false
+                }
+            ],
+            "id": "Internal-246"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "What is not a main proprity of the Digital Europe Programme?",
+            "answers": [
+                {
+                    "label": "Quantumcomputing",
+                    "value": true
+                },
+                {
+                    "label": "AI",
+                    "value": false
+                },
+                {
+                    "label": "Supercomputing",
+                    "value": false
+                },
+                {
+                    "label": "Digital technologies in companies",
+                    "value": false
+                }
+            ],
+            "id": "Internal-247"
+        },
+        {
+            "license": "OTHER",
+            "chapter": "AD6 Internal ",
+            "question": "What are the main proprities of the Digital Europe Programme?",
+            "answers": [
+                {
+                    "label": "?",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Other-248"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "?",
+            "question": "[Improvement of batteries take off]",
+            "answers": [
+                {
+                    "label": "EU Battery Alliance",
+                    "value": true
+                },
+                {
+                    "label": "EU Hydrogen Alliance",
+                    "value": false
+                },
+                {
+                    "label": "Wind Energy",
+                    "value": false
+                },
+                {
+                    "label": "Solar Energy",
+                    "value": false
+                }
+            ],
+            "id": "Internal-249"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "What are the rules of good behaviour / ethics for EU officials?",
+            "answers": [
+                {
+                    "label": "After 2 years of leaving the service, officials do no longer have to ask for authorisation to work somewhere (both renumerated or for free).",
+                    "value": true
+                },
+                {
+                    "label": "EU officials are not allowed to work elsewhere that could pose a conflict of interest.",
+                    "value": false
+                },
+                {
+                    "label": "EU officials are free to work wherever after leaving the service.",
+                    "value": false
+                },
+                {
+                    "label": "After 5 years of leaving the service, officials do no longer have to ask for authorisation to work somewhere (both renumerated or for free).",
+                    "value": false
+                }
+            ],
+            "id": "Internal-250"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "How does the CFSP Council vote?",
+            "answers": [
+                {
+                    "label": "Unanimously (except for clause passerelles)",
+                    "value": true
+                },
+                {
+                    "label": "HR VP decides",
+                    "value": false
+                },
+                {
+                    "label": "Simple majority",
+                    "value": false
+                },
+                {
+                    "label": "Qualified majority",
+                    "value": false
+                }
+            ],
+            "id": "Internal-251"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "?",
+            "question": "What does the CFSP Council do?",
+            "answers": [
+                {
+                    "label": "?",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Internal-252"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "?",
+            "question": "Which statement is incorrect about the European Education Area?",
+            "answers": [
+                {
+                    "label": "[REVIEW]",
+                    "value": true
+                },
+                {
+                    "label": "15% of low achievers under age 15 in Maths",
+                    "value": false
+                },
+                {
+                    "label": "15% of low achievers under grade 8 in IT skills",
+                    "value": false
+                },
+                {
+                    "label": "47% of 25-46 year olds have done a training in the past 12 months",
+                    "value": false
+                }
+            ],
+            "id": "Internal-253"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "?",
+            "question": "What is the purpose of the EU Health data space?",
+            "answers": [
+                {
+                    "label": "[REVIEW]",
+                    "value": true
+                },
+                {
+                    "label": "People can decide to restrict access to their data within their residence country",
+                    "value": false
+                },
+                {
+                    "label": "The EU health data space will give patients more control over the data / information shared",
+                    "value": false
+                },
+                {
+                    "label": "The EU health data space will be financed under the [?]",
+                    "value": false
+                }
+            ],
+            "id": "Internal-254"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "?",
+            "question": "What is not a law enforcement priority of the EU in 2023?",
+            "answers": [
+                {
+                    "label": "?",
+                    "value": true
+                },
+                {
+                    "label": "Diminish",
+                    "value": false
+                },
+                {
+                    "label": "Increase and develop",
+                    "value": false
+                },
+                {
+                    "label": "Keep in line with Council Commitment in Summer 2022",
+                    "value": false
+                }
+            ],
+            "id": "Internal-255"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "?",
+            "question": "When is the Commission not involved in the rule of law?",
+            "answers": [
+                {
+                    "label": "?",
+                    "value": true
+                },
+                {
+                    "label": "Review",
+                    "value": false
+                },
+                {
+                    "label": "Advertisement process",
+                    "value": false
+                },
+                {
+                    "label": "Creates a process with member states",
+                    "value": false
+                }
+            ],
+            "id": "Internal-256"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "?",
+            "question": "Which statement is incorrect about the Rule of Law report?",
+            "answers": [
+                {
+                    "label": "Rule of Law report includes five pillars/areas such as the justice system, the anti-corruption framework, media pluralism, migration, and other institutional issue",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Internal-257"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "Which statement is incorrect about the Commission's proposal on VAT in 2022?",
+            "answers": [
+                {
+                    "label": "A VAT exemption scheme to avoid fraud",
+                    "value": true
+                },
+                {
+                    "label": "A single EU VAT registration for businesses",
+                    "value": false
+                },
+                {
+                    "label": "Real time digital reporting system based on eInvoicing",
+                    "value": false
+                },
+                {
+                    "label": "New VAT rules for short-term rental/accommodation platforms",
+                    "value": false
+                }
+            ],
+            "id": "Internal-258"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "?",
+            "question": "Which statement does not relate to the EU's enlargement policies?",
+            "answers": [
+                {
+                    "label": "Funds reconciliation and peace in all Mediterranean countries",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Internal-259"
+        },
+        {
+            "license": "OTHER",
+            "chapter": "?",
+            "question": "What is the purpose of the EU's enlargement policy?",
+            "answers": [
+                {
+                    "label": "?",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Other-260"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "?",
+            "question": "Which one is not an objective of the planned revision of the Packaging Waste Directive?",
+            "answers": [
+                {
+                    "label": "A ban on single used plastic",
+                    "value": true
+                },
+                {
+                    "label": "Increase share of recycled plastic",
+                    "value": false
+                },
+                {
+                    "label": "All recycle packaging by 2050",
+                    "value": false
+                },
+                {
+                    "label": "40% reduction of packaging waste per capita per member state",
+                    "value": false
+                }
+            ],
+            "id": "Internal-261"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "?",
+            "question": "Which is not a priority of the Strategic Compass?",
+            "answers": [
+                {
+                    "label": "Investing in AI",
+                    "value": true
+                },
+                {
+                    "label": "Partner against threats",
+                    "value": false
+                },
+                {
+                    "label": "Secure European citizens",
+                    "value": false
+                },
+                {
+                    "label": "Act fast in crisis",
+                    "value": false
+                }
+            ],
+            "id": "Internal-262"
+        },
+        {
+            "license": "OTHER",
+            "chapter": "?",
+            "question": "What is the Strategic Compass?",
+            "answers": [
+                {
+                    "label": "?",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Other-263"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "?",
+            "question": "Which statement is false about EU food law?",
+            "answers": [
+                {
+                    "label": "European Agricultural Food Authority detects unsafe food",
+                    "value": true
+                },
+                {
+                    "label": "RASF system for detecting unsafe food to avoid outbreaks",
+                    "value": false
+                },
+                {
+                    "label": "TRACES system identifies traces of unsafe food",
+                    "value": false
+                },
+                {
+                    "label": "General Food Law: The Food Security law established security for food also taking into account consumers",
+                    "value": false
+                }
+            ],
+            "id": "Internal-264"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "Which statement is wrong about the DiscoverEU programme?",
+            "answers": [
+                {
+                    "label": "It is an Erasmus+ programme and participants must apply in two rounds",
+                    "value": true
+                },
+                {
+                    "label": "Participants receive a DiscoverEU European Youth Card",
+                    "value": false
+                },
+                {
+                    "label": "Participants can be residents of associated countries and receive a DiscoverEU European Youth Card and must be over 18",
+                    "value": false
+                },
+                {
+                    "label": "Participants must be residents of EU member states or associated countries",
+                    "value": false
+                }
+            ],
+            "id": "Internal-265"
+        },
+        {
+            "license": "INTERNAL",
+            "chapter": "AD6 Internal ",
+            "question": "Which statement is incorrect about the MFF?",
+            "answers": [
+                {
+                    "label": "The MFF is adopted by the EP, EC and national governments",
+                    "value": true
+                },
+                {
+                    "label": "MFF is the long-term budget running over 7 years",
+                    "value": false
+                },
+                {
+                    "label": "The Council and the EP adopt the annual budget",
+                    "value": false
+                },
+                {
+                    "label": "The 21-27 is topped up by NextGen EU recovery",
+                    "value": false
+                }
+            ],
+            "id": "Internal-266"
+        },
+        {
+            "license": "OTHER",
+            "chapter": "?",
+            "question": "Which statement is incorrect about the Digital Decade targets?",
+            "answers": [
+                {
+                    "label": "?",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Other-267"
+        },
+        {
+            "license": "OTHER",
+            "chapter": "?",
+            "question": "Which statement is incorrect about Horizon Europe?",
+            "answers": [
+                {
+                    "label": "Its mission aim is to achieve results at the earliest by 2040",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Other-268"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "CAST",
+            "question": "How many official EU languages are there?",
+            "answers": [
+                {
+                    "label": "24",
+                    "value": true
+                },
+                {
+                    "label": "27",
+                    "value": false
+                },
+                {
+                    "label": "20",
+                    "value": false
+                },
+                {
+                    "label": "22",
+                    "value": false
+                }
+            ],
+            "id": "Epso-269"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "EU Training",
+            "question": "How does the EU address EU's labour market's skills gap and mismatches?",
+            "answers": [
+                {
+                    "label": "Through initiatives promoting lifelong learning, upskilling and reskilling programmes. The initiatives aim to bridge the gap between labour market demands and the skills possessed by job seekers.",
+                    "value": true
+                },
+                {
+                    "label": "The EU does not address the EU's labour makret's skills gap.",
+                    "value": false
+                },
+                {
+                    "label": "Through funding public universities.",
+                    "value": false
+                },
+                {
+                    "label": "Through offering couses to educate workers about particular skills.",
+                    "value": false
+                }
+            ],
+            "id": "Epso-270"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "EU Training",
+            "question": "How does the EU promote sustainable finance and investment?",
+            "answers": [
+                {
+                    "label": "Through integrating ESG criteria into investment decisions.",
+                    "value": true
+                },
+                {
+                    "label": "By imposing sustainable finance and investment requirements on member states.",
+                    "value": false
+                },
+                {
+                    "label": "The EU does not promote sustainable finance and investment.",
+                    "value": false
+                },
+                {
+                    "label": "By offering frameworks to member states to inform them about sustainable finance and investment.",
+                    "value": false
+                }
+            ],
+            "id": "Epso-271"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "EU Training",
+            "question": "How does the EU address social inequalities and promote social inclusion?",
+            "answers": [
+                {
+                    "label": "By implementing social protection programmes and policies",
+                    "value": true
+                },
+                {
+                    "label": "By imposing quotas",
+                    "value": false
+                },
+                {
+                    "label": "The EU does not address social inequalities.",
+                    "value": false
+                },
+                {
+                    "label": "By offering courses to inform citizens about social inequalities in the EU.",
+                    "value": false
+                }
+            ],
+            "id": "Epso-272"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "EU Training",
+            "question": "How does the EU promote sustainable transportation?",
+            "answers": [
+                {
+                    "label": "By developing alternative fuel infrastructure (e.g. electric vehicle charging stations, hydrogen refuelling stations) to aim to reduce reliance on fossil fuels and promote the use of cleaner and more sustainable transportation options.",
+                    "value": true
+                },
+                {
+                    "label": "By providing funding to member states to expand their public transportation infrastructure.",
+                    "value": false
+                },
+                {
+                    "label": "The EU does not promote sustainable transportation.",
+                    "value": false
+                },
+                {
+                    "label": "By providing funding to member states to expant their railway infrastructure.",
+                    "value": false
+                }
+            ],
+            "id": "Epso-273"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "EU Training",
+            "question": "What is the purpose of the GDPR?",
+            "answers": [
+                {
+                    "label": "To protect personal data and privacy of EU citizens by establishing regulations for the collection, processing and storage of personal data by businesses and organizations.",
+                    "value": true
+                },
+                {
+                    "label": "To protect commercial data and sensitive information about companies by establishing regulations for the collection, processing of data.",
+                    "value": false
+                },
+                {
+                    "label": "To protect any data by establishign regulations for the collection, processing and storage of data by businesses and organizations.",
+                    "value": false
+                },
+                {
+                    "label": "The GDPR does not exist.",
+                    "value": false
+                }
+            ],
+            "id": "Epso-274"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "EU Training",
+            "question": "What is the purpose of the European Neighbourhood Policy?",
+            "answers": [
+                {
+                    "label": "Fostering peace, stability and prosperity in the EU’s neighbouring countries via political dialogues, economic cooperation, and support for reforms.",
+                    "value": true
+                },
+                {
+                    "label": "Fostering peace, stability and prosperity in the neighbouring countries of every member state via political dialogues, economic cooperation, and support for reforms.",
+                    "value": false
+                },
+                {
+                    "label": "Promoting community and social equality in neighbourhoods in member states.",
+                    "value": false
+                },
+                {
+                    "label": "The European Neighbourhood Policy does not exist.",
+                    "value": false
+                }
+            ],
+            "id": "Epso-275"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "EU Training",
+            "question": "What is the majority of the EU budget spent on?",
+            "answers": [
+                {
+                    "label": "On cohesion and regional development, and on agriculture and rural development to reduce disparities between regions and ensure a stable and safe food supply throughout Europe.",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Epso-276"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "EU Training",
+            "question": "What is the role of the European Commission with respect to the EU budget?",
+            "answers": [
+                {
+                    "label": "The Commission proposes the EU budget, which is agreed upon by the European Parliament and the Council of the EU",
+                    "value": true
+                },
+                {
+                    "label": "The Commission, Parliament, Council and member states agree upon the budget",
+                    "value": false
+                },
+                {
+                    "label": "The Parliament proposes the EU budget, which is agreed upon by the Council and the Commission",
+                    "value": false
+                },
+                {
+                    "label": "The member states propose the EU budget, which is agreed upon by the Council, the Parliament and the Commission.",
+                    "value": false
+                }
+            ],
+            "id": "Epso-277"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "EU Training",
+            "question": "What is the purpose of the European Fisheries Control Agency (EFCA)?",
+            "answers": [
+                {
+                    "label": "Ensure the effective and uniform application of the EU’s Common Fisheries Policy.",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Epso-278"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "EU Training",
+            "question": "Which agency ensures the effective and uniform application of the EU's Common Fisheries Policy?",
+            "answers": [
+                {
+                    "label": "EFCA",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Epso-279"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "EU Training",
+            "question": "What does the European Investment Bank (EIB) do?",
+            "answers": [
+                {
+                    "label": "EIB provides loans for projects within the EU and third-countries aligning with EU’s objectives, thereby complementing the EU budget. Focus on sustainable development and integration.",
+                    "value": true
+                },
+                {
+                    "label": "EIB provides loans for projects within the EU and third-countries aligning with EU’s objectives using the EU budget. Focus on sustainable development and integration.",
+                    "value": false
+                },
+                {
+                    "label": "EIB provides loans for projects within third-countries aligning with EU’s objectives, thereby complementing the EU budget. Focus on sustainable development and integration.",
+                    "value": false
+                },
+                {
+                    "label": "EIB provides loans for projects within the EU aligning with EU’s objectives, thereby complementing the EU budget. Focus on sustainable development and integration.",
+                    "value": false
+                }
+            ],
+            "id": "Epso-280"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "EU Training",
+            "question": "What is the relationship between the EU's Economic and Financial Committee (EF) and the Economic and Financial Affairs Council (ECOFIN)?",
+            "answers": [
+                {
+                    "label": "The EF is the preparatory body for ECOFIN, provides opinions and recommendations on economic and financial matters and promotes policy coordination among EU member states.",
+                    "value": true
+                },
+                {
+                    "label": "ECOFIN is the preparatory body for the EF, provides opinions and recommendations on economic and financial matters and promotes policy coordination among EU member states.",
+                    "value": false
+                },
+                {
+                    "label": "ECOFIN and the EF are unrelated.",
+                    "value": false
+                },
+                {
+                    "label": "The EF assesses the economic and financial decisions that were made within ECOFIN and publishes yearly impact assessments.",
+                    "value": false
+                }
+            ],
+            "id": "Epso-281"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "EU Training",
+            "question": "What statement is incorrect about the National Reform Programs (NPRs)?",
+            "answers": [
+                {
+                    "label": "Serve Member States by outlining the environmental measures that each country plans to undertake.",
+                    "value": true
+                },
+                {
+                    "label": "Serve Member States by outlining the economic and fiscal policy measures (and structural reform policies) that each country plans to undertake.",
+                    "value": false
+                },
+                {
+                    "label": "The programs are designed to align national policies with the EU’s overarching economic goals.",
+                    "value": false
+                },
+                {
+                    "label": "Are presented to the Commission by the end of April, together with the Stability programme and Converegnce programme",
+                    "value": false
+                }
+            ],
+            "id": "Epso-282"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "EU Training",
+            "question": "What statement about the Single Supervisory Mechanism is incorrect?",
+            "answers": [
+                {
+                    "label": "?",
+                    "value": true
+                },
+                {
+                    "label": "Mechanism is part of the ECB and supervisory authorities of the member states",
+                    "value": false
+                },
+                {
+                    "label": "Responsible for the supervision of credit institutions and the banking sector",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Epso-283"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "EU Training",
+            "question": "What is the purpose of the EU's Research and Innovation Framework Programmes?",
+            "answers": [
+                {
+                    "label": "To promote collaborative R&I across Europe by providing funding and support for transnational projects that aim to foster cooperation, knowledge exchange and technological advancements across EU member states.",
+                    "value": true
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                },
+                {
+                    "label": "?",
+                    "value": false
+                }
+            ],
+            "id": "Epso-284"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "EU Training",
+            "question": "Which statement is incorrect about the General Council?",
+            "answers": [
+                {
+                    "label": "The General Council is part of the Council of the EU to liase with the ECB.",
+                    "value": true
+                },
+                {
+                    "label": "The General Council is responsible for the preparation of the ECB's annual report.",
+                    "value": false
+                },
+                {
+                    "label": "The General Council is part of the ECB and carries out tasks that still fall under the remit of the ECB from the pre-Euro times.",
+                    "value": false
+                },
+                {
+                    "label": "The General Council comprises the President and the Vice-President of the ECB and the governors of the national central banks (NCBs) of the EU Member States.",
+                    "value": false
+                }
+            ],
+            "id": "Epso-285"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "EU Training",
+            "question": "What is the purpose of the European Fiscal Board?",
+            "answers": [
+                {
+                    "label": "The European Fiscal Board evaluates the implementation of the Stability and Growth Pact and provides independent analysis and advice on fiscal matters to the European Commission.",
+                    "value": true
+                },
+                {
+                    "label": "The European Fiscal Board evaluates the implementation of the Stability and Growth Pact and provides independent analysis and advice on fiscal matters to the Council and the Parliament.",
+                    "value": false
+                },
+                {
+                    "label": "The European Fiscal Board evaluates the implementation of the Stability and Growth Pact and provides independent analysis and advice on fiscal matters to the ECB.",
+                    "value": false
+                },
+                {
+                    "label": "The European Fiscal Board evaluates the implementation of the Stability and Growth Pact and provides independent analysis and advice on fiscal matters to the EIB.",
+                    "value": false
+                }
+            ],
+            "id": "Epso-286"
+        },
+        {
+            "license": "EPSO",
+            "chapter": "EU Training",
+            "question": "What happens if a Eurozone country exceeds public dept?",
+            "answers": [
+                {
+                    "label": "When a Eurozone country exceeds the limit set in the Stability and Growth Pact (60% of GDP), the country may be subjected to the Excessive Deficit Procedure which can lead to sanctions and requires the country to implement measures to reduce the deficit.",
+                    "value": true
+                },
+                {
+                    "label": "When a Eurozone country exceeds the limit set in the Stability and Growth Pact (80% of GDP), the country may be subjected to the Excessive Deficit Procedure which can lead to sanctions and requires the country to implement measures to reduce the deficit.",
+                    "value": false
+                },
+                {
+                    "label": "When an EU country exceeds the limit set in the Stability and Growth Pact (60% of GDP), the country may be subjected to the Excessive Deficit Procedure which can lead to sanctions and requires the country to implement measures to reduce the deficit.",
+                    "value": false
+                },
+                {
+                    "label": "When an EU country exceeds the limit set in the Stability and Growth Pact (80% of GDP), the country may be subjected to the Excessive Deficit Procedure which can lead to sanctions and requires the country to implement measures to reduce the deficit.",
+                    "value": false
+                }
+            ],
+            "id": "Epso-287"
         }
     ]
 }

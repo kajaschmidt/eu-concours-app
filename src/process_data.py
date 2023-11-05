@@ -46,13 +46,15 @@ def get_data() -> None:
 
     # Initiate funkschein dictionary
     funkschein_dict = {
-        "id": "epso",
+        "id": "concours",
         "title": "eu policy and institutions"
     }
 
     # Create dictionary with question data
     data = dict()
     for q_id, row in df.iterrows():
+
+        q_id = q_id.capitalize()
 
         # Initiate entry for q_id if it does not yet exist
         if q_id not in data.keys():
